@@ -1,0 +1,54 @@
+name: Process Misaka BGP List
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Download chnroutes.txt
+      run: curl -O https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
+
+    - name: Prepend IP-CIDR and add update time
+      run: |
+        export TZ="Asia/Shanghai"
+        current_time=$(date +"# Update Time: %m/%d/%Y %H:%M:%S")
+        unset TZ
+        echo "$current_time" > chnrouters.list
+        head -n 1 chnroutes.txt >> chnrouters.list
+        tail -n +3 chnroutes.txt | sed 's/^/IP-CIDR,/' >> chnrouters.list
+
+    - name: Download china6.txt
+      run: curl -O https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt
+
+    - name: Prepend IP-CIDR6 to china6.txt
+      run: sed 's/^/IP-CIDR6,/' china6.txt > china6_processed.txt
+
+    - name: Append china6_processed.txt to chnrouters.list
+      run: cat china6_processed.txt >> chnrouters.list
+
+    - name: Count lines in chnrouters.list (excluding top 2 lines)
+      run: |
+        line_count=$(tail -n +3 chnrouters.list | wc -l)
+        echo "Total lines (excluding top 2): $line_count"
+        echo "line_count=$line_count" >> $GITHUB_ENV
+
+    - name: Insert rules total into chnrouters.list
+      run: |
+        sed -i "3i # Rules Total: $line_count\n" chnrouters.list
+
+    - name: Commit and push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add chnrouters.list
+        git commit -m "Update processed routes with total rules"
+        git push
