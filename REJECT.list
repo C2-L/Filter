@@ -1,12 +1,11 @@
 # Ads
-DOMAIN,googleads.g.doubleclick.net
 DOMAIN,googleadservices.com
 DOMAIN,assuretwelfth.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,doubleclick.net
+# Others
 DOMAIN-SUFFIX,shoutava.top
 DOMAIN-SUFFIX,jap.furnituremuse.com
-#Others
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,google-analytics.com
