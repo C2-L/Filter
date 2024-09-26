@@ -6,9 +6,9 @@ DOMAIN-SUFFIX,doubleclick.net
 # Others
 DOMAIN,libra-sg.tiktokv.com
 DOMAIN,app-measurement.com
-DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN,app-analytics-services.com
 DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,shoutava.top
 DOMAIN-SUFFIX,jap.furnituremuse.com
 DOMAIN-SUFFIX,branch.io
