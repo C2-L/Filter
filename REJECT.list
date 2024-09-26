@@ -173,7 +173,6 @@ DOMAIN-SUFFIX,api.linkgist.com
 DOMAIN-SUFFIX,api.linkz.net
 DOMAIN-SUFFIX,api.lookupmanager.com
 DOMAIN-SUFFIX,api.mbrx.app
-DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,datadoghq-browser-agent.com
