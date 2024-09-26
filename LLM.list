@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,open-ai-chat-omega.vercel.app
 DOMAIN-KEYWORD,openai
+IP-ASN,14061
+IP-ASN,31898
 # Gemini
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
