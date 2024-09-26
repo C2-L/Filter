@@ -24,8 +24,6 @@ DOMAIN-SUFFIX,goodnotescloud.com
 DOMAIN-SUFFIX,api.goodnotes.email
 DOMAIN-SUFFIX,ps.pndsn.com
 DOMAIN,kimi.ai
-IP-ASN,14061
-IP-ASN,31898
 # Steam (TOTAL: 40)
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
