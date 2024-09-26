@@ -16,7 +16,6 @@ DOMAIN,images.weserv.nl
 DOMAIN-SUFFIX,bfengbf.com
 DOMAIN-SUFFIX,lilithgame.com
 DOMAIN,y-webrtc-signaling.lobehub.com
-DOMAIN,kimi.ai
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,notability.com
 DOMAIN-SUFFIX,fileball.app
@@ -24,7 +23,9 @@ DOMAIN-SUFFIX,goodnotes.com
 DOMAIN-SUFFIX,goodnotescloud.com
 DOMAIN-SUFFIX,api.goodnotes.email
 DOMAIN-SUFFIX,ps.pndsn.com
-DOMAIN-SUFFIX,bdgr1t-launches.appsflyersdk.com
+DOMAIN,kimi.ai
+IP-ASN,14061
+IP-ASN,31898
 # Steam (TOTAL: 40)
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
