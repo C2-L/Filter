@@ -133,3 +133,8 @@ DOMAIN-SUFFIX,renderer.gist.build
 DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build
 DOMAIN-SUFFIX,code.gist.build
 DOMAIN-SUFFIX,assets.gist.build
+# AI Services
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,txyz.ai
