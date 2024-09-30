@@ -134,7 +134,8 @@ DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build
 DOMAIN-SUFFIX,code.gist.build
 DOMAIN-SUFFIX,assets.gist.build
 # AI Services
-DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,cdn-lfs-us-1.hf.co
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,txyz.ai
