@@ -33,13 +33,3 @@ DOMAIN-KEYWORD,generativelanguage
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
-# Perplexity
-DOMAIN-SUFFIX,perplexity.ai
-# JetBrains AI
-DOMAIN-SUFFIX,grazie.ai
-# Hugging Face
-DOMAIN-SUFFIX,huggingface.co
-# Groq
-DOMAIN-SUFFIX,groq.com
-# TXYZ
-DOMAIN-SUFFIX,txyz.ai
