@@ -10,7 +10,7 @@ DOMAIN,app-analytics-services.com
 DOMAIN,cdn.usefathom.com
 DOMAIN,jap.craftyeta.com
 DOMAIN-SUFFIX,scorecardresearch.com
-DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,events.launchdarkly.com
 DOMAIN-SUFFIX,sef7at.com
 DOMAIN-SUFFIX,sefkal.openapp.link
 DOMAIN-SUFFIX,sefsdvc.com
