@@ -3,7 +3,7 @@ DOMAIN,googleadservices.com
 DOMAIN,assuretwelfth.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,doubleclick.net
-# Others
+# Privacy and Malicious Pages
 DOMAIN,libra-sg.tiktokv.com
 DOMAIN,app-measurement.com
 DOMAIN,app-analytics-services.com
