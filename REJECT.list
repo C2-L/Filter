@@ -1,11 +1,14 @@
-# Privacy and Malicious Pages
+# Ads
+DOMAIN,googleadservices.com
+DOMAIN,assuretwelfth.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,doubleclick.net
+# Others
 DOMAIN,libra-sg.tiktokv.com
 DOMAIN,app-measurement.com
 DOMAIN,app-analytics-services.com
 DOMAIN,cdn.usefathom.com
 DOMAIN,jap.craftyeta.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,assuretwelfth.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,actonservice.com
 DOMAIN-SUFFIX,events.launchdarkly.com
