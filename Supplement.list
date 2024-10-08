@@ -20,9 +20,7 @@ DOMAIN,sub.kccikk.xyz
 DOMAIN,surge.tel
 DOMAIN,dlr1.fcdn.sk
 DOMAIN,zlibrary-global.se
-DOMAIN-SUFFIX,macosicons.com
 DOMAIN,api.statsig.com
-DOMAIN-SUFFIX,hysteria.network
 DOMAIN,ip-api.com
 DOMAIN,charliemonroe.net
 DOMAIN,api.segment.io
@@ -30,6 +28,8 @@ DOMAIN,cdn-settings.segment.com
 DOMAIN,mangafoxfull.com
 DOMAIN,cn.bg3.co
 DOMAIN,tv.iill.top
+DOMAIN-SUFFIX,hysteria.network
+DOMAIN-SUFFIX,macosicons.com
 DOMAIN-SUFFIX,stytch.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
