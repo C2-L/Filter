@@ -25,6 +25,11 @@ DOMAIN-SUFFIX,goodnotes.com
 DOMAIN-SUFFIX,goodnotescloud.com
 DOMAIN-SUFFIX,api.goodnotes.email
 DOMAIN-SUFFIX,ps.pndsn.com
+DOMAIN-SUFFIX,imgyzzy.com:443
+DOMAIN-SUFFIX,yzzyimages.com
+DOMAIN-SUFFIX,imgikzy.com
+DOMAIN-SUFFIX,high22-playback.com
+DOMAIN,cupfox.app
 DOMAIN,kimi.ai
 # Steam (TOTAL: 40)
 DOMAIN,steammobile.akamaized.net
