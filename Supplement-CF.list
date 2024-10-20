@@ -1,6 +1,7 @@
 # General
 DOMAIN,open-ai-chat-omega.vercel.app
 DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,krea.ai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,identrust.com
