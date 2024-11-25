@@ -105,6 +105,7 @@ DOMAIN-SUFFIX,euserv.com
 DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,zeabur.com
 DOMAIN-KEYWORD,stripe
+IP-CIDR,95.161.76.101/32
 # Providers
 DOMAIN,ww1.12345.al
 DOMAIN-SUFFIX,y-too.com
