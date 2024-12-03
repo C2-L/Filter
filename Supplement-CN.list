@@ -8,6 +8,8 @@ DOMAIN,svipsvip.ffzy-online5.com
 DOMAIN,m3.libvio.cloud
 DOMAIN,images.weserv.nl
 DOMAIN,orsjc.xmsl.org
+DOMAIN,cupfox.app
+DOMAIN,kimi.ai
 DOMAIN-SUFFIX,libvio.cc
 DOMAIN-SUFFIX,bfengbf.com
 DOMAIN-SUFFIX,agedm.org
@@ -29,8 +31,6 @@ DOMAIN-SUFFIX,imgyzzy.com:443
 DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
-DOMAIN,cupfox.app
-DOMAIN,kimi.ai
 # Steam (TOTAL: 40)
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
