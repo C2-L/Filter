@@ -1,6 +1,5 @@
 # General
 DOMAIN,v16m-default.akamaized.net
-DOMAIN,ssrfun.com
 DOMAIN,lziplayer.com
 DOMAIN,union.dplayerstatic.com
 DOMAIN,v.cdnlz22.com
@@ -13,7 +12,8 @@ DOMAIN,m3.libvio.cloud
 DOMAIN,images.weserv.nl
 DOMAIN,orsjc.xmsl.org
 DOMAIN,cupfox.app
-DOMAIN,kimi.ai
+DOMAIN-SUFFIX,kimi.ai
+DOMAIN-SUFFIX,ssrfun.com
 DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,libvio.cc
 DOMAIN-SUFFIX,bfengbf.com
