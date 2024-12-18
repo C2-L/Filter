@@ -11,8 +11,12 @@ DOMAIN,m3.libvio.cloud
 DOMAIN,images.weserv.nl
 DOMAIN,cupfox.app
 DOMAIN,bigmodel.ai
+DOMAIN,emby.bangumi.ca
+DOMAIN,cf.imetyou.top
+DOMAIN,hka-emby.aliz.work
 DOMAIN-SUFFIX,libvio.cloud
 DOMAIN-SUFFIX,kimi.ai
+DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,ssrfun.com
 DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,libvio.cc
@@ -24,8 +28,6 @@ DOMAIN-SUFFIX,zxzjhd.com
 DOMAIN-SUFFIX,zxzj.org
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,lilithgame.com
-DOMAIN-SUFFIX,doubao.com
-DOMAIN-SUFFIX,aliz.work
 DOMAIN-SUFFIX,notability.com
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,goodnotes.com
