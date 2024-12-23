@@ -21,7 +21,6 @@ DOMAIN,surge.tel
 DOMAIN,dlr1.fcdn.sk
 DOMAIN,zlibrary-global.se
 DOMAIN,api.statsig.com
-DOMAIN,ip-api.com
 DOMAIN,charliemonroe.net
 DOMAIN,api.segment.io
 DOMAIN,cdn-settings.segment.com
@@ -53,6 +52,7 @@ DOMAIN-SUFFIX,manhwatop.com
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,happymh.com
 DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,bit.ly
