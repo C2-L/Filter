@@ -147,3 +147,7 @@ DOMAIN-SUFFIX,renderer.gist.build
 DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build
 DOMAIN-SUFFIX,code.gist.build
 DOMAIN-SUFFIX,assets.gist.build
+#SWA
+DOMAIN-SUFFIX,sandalwoodadvisors.com
+DOMAIN-SUFFIX,sandalwoodadvisors.com.cn
+IP-CIDR,159.75.231.0/22
