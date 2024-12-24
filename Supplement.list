@@ -106,6 +106,26 @@ DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,zeabur.com
 DOMAIN-KEYWORD,stripe
 IP-CIDR,95.161.76.101/32
+# AI Services
+DOMAIN,cdn-lfs-us-1.hf.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,txyz.ai
+# Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN,assets.customer.io
+DOMAIN,img.notionusercontent.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,engine-consumer-api.cloud.gist.build
+DOMAIN-SUFFIX,renderer.gist.build
+DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build
+DOMAIN-SUFFIX,code.gist.build
+DOMAIN-SUFFIX,assets.gist.build
 # Providers
 DOMAIN,ww1.12345.al
 DOMAIN-SUFFIX,y-too.com
@@ -127,27 +147,7 @@ DOMAIN-SUFFIX,oraclefoundation.org
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,sun.com
-# AI Services
-DOMAIN,cdn-lfs-us-1.hf.co
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,txyz.ai
-# Notion
-DOMAIN,http-inputs-notion.splunkcloud.com
-DOMAIN,assets.customer.io
-DOMAIN,img.notionusercontent.com
-DOMAIN-SUFFIX,notion-static.com
-DOMAIN-SUFFIX,notion.com
-DOMAIN-SUFFIX,notion.new
-DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,engine-consumer-api.cloud.gist.build
-DOMAIN-SUFFIX,renderer.gist.build
-DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build
-DOMAIN-SUFFIX,code.gist.build
-DOMAIN-SUFFIX,assets.gist.build
-#SWA
+# SWA
 DOMAIN-SUFFIX,sandalwoodadvisors.com
 DOMAIN-SUFFIX,sandalwoodadvisors.com.cn
 IP-CIDR,159.75.231.0/22
