@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,txyz.ai
+DOMAIN-SUFFIX,deepseek.com
 # Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,assets.customer.io
