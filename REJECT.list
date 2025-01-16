@@ -34,6 +34,5 @@ DOMAIN-SUFFIX,datadog-service.mvfglobal.com
 DOMAIN-SUFFIX,collect.usefathom.com
 DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,track.customer.io
 DOMAIN-SUFFIX,sprig.com
