@@ -41,14 +41,16 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
+## AI Services
+# General
+DOMAIN,static.intercomassets.com
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,volces.com
 # Kimi
 DOMAIN-SUFFIX,kimi.ai
 # Deepseek
-DOMAIN,static.intercomassets.com
-DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,intercom.com
 # Steam (TOTAL: 40)
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
