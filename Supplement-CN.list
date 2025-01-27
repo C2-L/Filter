@@ -17,7 +17,6 @@ DOMAIN,api.rc-backup.com
 DOMAIN-SUFFIX,libvio.cloud
 DOMAIN-SUFFIX,cdn.bgp.yt
 DOMAIN-SUFFIX,aliz.work
-DOMAIN-SUFFIX,kimi.ai
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,ssrfun.com
 DOMAIN-SUFFIX,cdnlz1.com
@@ -42,6 +41,14 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
+# Kimi
+DOMAIN-SUFFIX,kimi.ai
+# Deepseek
+DOMAIN,static.intercomassets.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,intercom.com
 # Steam (TOTAL: 40)
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
