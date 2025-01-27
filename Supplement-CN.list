@@ -47,7 +47,9 @@ DOMAIN,static.intercomassets.com
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,volces.com
 # Kimi
+DOMAIN,easytomessage.com
 DOMAIN-SUFFIX,kimi.ai
+DOMAIN-SUFFIX,umeng.com
 # Deepseek
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
