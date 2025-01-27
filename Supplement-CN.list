@@ -49,8 +49,9 @@ DOMAIN-SUFFIX,volces.com
 # Kimi
 DOMAIN-SUFFIX,kimi.ai
 # Deepseek
-DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
+DOMAIN-SUFFIX,fengkongcloud.com
 # Steam (TOTAL: 40)
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
