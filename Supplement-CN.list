@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,us.kg
 DOMAIN,static.intercomassets.com
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,volces.com
+# Self-Host Services
+IP-CIDR,152.70.233.134/32
 # Kimi
 DOMAIN,easytomessage.com
 DOMAIN-SUFFIX,kimi.ai
@@ -56,47 +58,25 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
 DOMAIN-SUFFIX,fengkongcloud.com
-# Steam (TOTAL: 40)
-DOMAIN,steammobile.akamaized.net
-DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
-DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
-DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
-DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dl.steam.clngaa.com
-DOMAIN-SUFFIX,dl.steam.ksyna.com
-DOMAIN-SUFFIX,dota2.wmsj.cn
+# Steam
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,playartifact.com
-DOMAIN-SUFFIX,s.team
-DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steambroadcast.akamaized.net
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamstatic.com.8686c.com
-DOMAIN-SUFFIX,steamstore-a.akamaihd.net
-DOMAIN-SUFFIX,steamunlocked.net
-DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
-DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
-DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-SUFFIX,wmsjsteam.com
-DOMAIN-KEYWORD,steambroadcast
-DOMAIN-KEYWORD,steamstore
-DOMAIN-KEYWORD,steamuserimages
 # Adobe Services
 DOMAIN,adbemdigitalmediarebootprod2.112.2o7.net
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
@@ -136,8 +116,6 @@ DOMAIN-SUFFIX,worldsecuresystems.com
 DOMAIN-KEYWORD,adobe
 # Bytedance
 DOMAIN-SUFFIX,amemv.com
-DOMAIN,lf3-static.bytednsdoc.com
-DOMAIN,v5-dy-o-abtest.zjcdn.com
 DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
 DOMAIN-SUFFIX,byted-static.com
@@ -145,23 +123,16 @@ DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
 DOMAIN-SUFFIX,bytednsdoc.com
-DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytexservice.com
-DOMAIN-SUFFIX,doubao.cn
-DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,ecombdapi.com
-DOMAIN-SUFFIX,ecombdimg.com
-DOMAIN-SUFFIX,ecombdstatic.com
-DOMAIN-SUFFIX,ecombdvod.com
 DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,gifshow.com
@@ -188,9 +159,6 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
-DOMAIN-SUFFIX,idouyinvod.com
-DOMAIN-SUFFIX,ixiguavideo.com
-DOMAIN-KEYWORD,bytedance
 # Gaode
 DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co
@@ -317,8 +285,6 @@ DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-KEYWORD,alibaba
-DOMAIN-KEYWORD,aliyun
 # Tencent
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,dnspod.cn
@@ -332,7 +298,6 @@ DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
@@ -344,37 +309,14 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechatlegal.net
-DOMAIN-SUFFIX,wechatpay.com
-DOMAIN-SUFFIX,wechatpay.com.hk
-DOMAIN-SUFFIX,wegame.com
-DOMAIN-SUFFIX,wegame.com.cn
-DOMAIN-SUFFIX,weiaixiaoshuo.com
-DOMAIN-SUFFIX,weishi.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
-DOMAIN-KEYWORD,tencent
-IP-CIDR,101.32.104.4/32
-IP-CIDR,101.32.104.41/32
-IP-CIDR,101.32.104.56/32
-IP-CIDR,101.32.118.25/32
-IP-CIDR,101.32.133.16/32
-IP-CIDR,101.32.133.209/32
-IP-CIDR,101.32.133.53/32
-IP-CIDR,103.238.16.0/23
-IP-CIDR,103.7.28.0/22
-IP-CIDR,129.226.107.244/32
-IP-CIDR,129.226.3.47/32
 # Weibo
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-KEYWORD,weibo
 # NetEase
-DOMAIN-SUFFIX,nstool.321fenx.com
-DOMAIN-SUFFIX,nstool.netease.com
-DOMAIN-SUFFIX,nstool.zhuanzfx.com
-DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
@@ -385,7 +327,6 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
-IP-CIDR,115.236.121.51/32
 IP-CIDR,101.71.154.241/32
 IP-CIDR,103.126.92.132/31
 IP-CIDR,103.126.92.132/32
