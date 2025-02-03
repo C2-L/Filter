@@ -46,8 +46,6 @@ DOMAIN-SUFFIX,us.kg
 DOMAIN,static.intercomassets.com
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,volces.com
-# Self-Host Services
-IP-CIDR,152.70.233.134/32
 # Kimi
 DOMAIN,easytomessage.com
 DOMAIN-SUFFIX,kimi.ai
