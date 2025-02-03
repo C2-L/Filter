@@ -41,6 +41,8 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
+# Media Server
+IP-CIDR,152.70.233.134/32
 ## AI Services
 # General
 DOMAIN,static.intercomassets.com
