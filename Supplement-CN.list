@@ -358,3 +358,5 @@ IP-CIDR,59.111.238.29/32
 # Outlook Servers
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,singular.net
+# Zoho
+DOMAIN-SUFFIX,zoho.com
