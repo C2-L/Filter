@@ -1,3 +1,4 @@
+# MS
 DOMAIN,embyplus.org
 DOMAIN,emby.embyplus.org
 DOMAIN,aca.misakaf.org
@@ -6,3 +7,6 @@ DOMAIN,emby.nebula-media.org
 DOMAIN,web.nebula-media.org
 DOMAIN,film.hovervan.org
 DOMAIN,789.123456.al
+# AGEANI
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agemys.org
