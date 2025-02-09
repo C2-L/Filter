@@ -1,4 +1,4 @@
-name: 更新 Filter 文件
+name: Update Filter Files
 
 on:
   schedule:
