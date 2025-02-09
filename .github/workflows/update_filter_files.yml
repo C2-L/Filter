@@ -13,7 +13,7 @@ jobs:
       - name: 检出当前仓库代码
         uses: actions/checkout@v3
 
-      - name: 下载并处理 Filter 文件
+      - name: Download and edit Filter files
         run: |
           # 定义需要处理的文件列表
           files=("Apple.list" "Cloudflare.list" "GitHub.list" "Microsoft.list" "China.list" "Streaming.list" "GlobalMax.list")
@@ -28,15 +28,15 @@ jobs:
             } > "$file"
           done
 
-      - name: 提交并推送更新（如有变化）
+      - name: Commit and push update notification (If changed)
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
           if ! git diff-index --quiet HEAD; then
-            git commit -m "更新 Filter 文件：移除 no-resolve 并添加更新时间"
+            git commit -m "Update 7 filter fils"
             git push
           else
-            echo "未检测到内容变更。"
+            echo "No changes detected"
           fi
 
