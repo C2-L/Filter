@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 4 * * *'
     - cron: '0 16 * * *'
+    workflow_dispatch: # 允许手动触发
 
 jobs:
   update_filters:
