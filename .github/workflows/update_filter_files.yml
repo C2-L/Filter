@@ -1,4 +1,4 @@
-name: Update Filter Files
+name: 更新 Filter 文件
 
 on:
   schedule:
@@ -15,32 +15,28 @@ jobs:
 
       - name: 下载并处理 Filter 文件
         run: |
-          # 创建存放文件的目录
-          mkdir -p Filter
-          # 定义文件列表
+          # 定义需要处理的文件列表
           files=("Apple.list" "Cloudflare.list" "GitHub.list" "Microsoft.list" "China.list" "Streaming.list" "GlobalMax.list")
           # 获取北京时间更新时间，格式为 MM/DD/YYYY HH:MM:SS
           update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
           for file in "${files[@]}"; do
             echo "正在处理 ${file}..."
-            # 构造下载链接
             url="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Ruleset/${file}"
-            # 下载原始文件
-            curl -L -o "Filter/${file}.raw" "$url"
-            # 去除所有 ",no-resolve" 字符串
-            sed 's/,no-resolve//g' "Filter/${file}.raw" > "Filter/${file}.cleaned"
-            # 在文件顶部插入更新时间，并生成最终文件
-            echo "# Update Time: $update_time" | cat - "Filter/${file}.cleaned" > "Filter/${file}"
+            {
+              echo "# Update Time: $update_time"
+              curl -L "$url" | sed 's/,no-resolve//g'
+            } > "$file"
           done
 
       - name: 提交并推送更新（如有变化）
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add Filter
+          git add .
           if ! git diff-index --quiet HEAD; then
             git commit -m "更新 Filter 文件：移除 no-resolve 并添加更新时间"
             git push
           else
             echo "未检测到内容变更。"
           fi
+
