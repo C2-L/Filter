@@ -1,4 +1,4 @@
-name: Update Filter Files
+name: Main Filter Files Update
 
 on:
   schedule:
