@@ -1,0 +1,41 @@
+name: Update ASN.China.list
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download and process ASN.China.list
+        run: |
+          set -e
+          curl -sSL "https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list" -o ASN.China.list.tmp
+          sed '1,3d' ASN.China.list.tmp > temp.list
+          sed 's/\/\//#/g' temp.list > processed.list
+          line_count=$(wc -l < processed.list)
+          total=$((line_count - 1))
+          {
+            echo "# Update Time: $(TZ=Asia/Shanghai date '+%m/%d/%Y %H:%M:%S')"
+            echo "# Name: ASN information in China"
+            echo "# Total: $total"
+            cat processed.list
+          } > ASN.China.list
+          rm ASN.China.list.tmp temp.list processed.list
+
+      - name: Commit and push updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if git diff --quiet; then
+            echo "No changes."
+          else
+            git add ASN.China.list
+            git commit -m "Update ASN.China.list"
+            git push
+          fi
