@@ -10,11 +10,14 @@ jobs:
   update_filters:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out the current repository code
         uses: actions/checkout@v3
 
       - name: Download and edit Filter files
         run: |
+          # Definition of the list of files to be processed
           files=("Apple.list" "Cloudflare.list" "GitHub.list" "Microsoft.list" "China.list" "Streaming.list" "GlobalMax.list")
+          # Get GMT+8 time update, formatted as MM/DD/YYYY HH:MM:SS.
           update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
           for file in "${files[@]}"; do
             echo "正在处理 ${file}..."
@@ -25,14 +28,14 @@ jobs:
             } > "$file"
           done
 
-      - name: Commit and push update notification (If changed)
+      - name: Commit and push updates
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Update 7 filter fils"
+            git commit -m "Update Filter Files"
             git push
           else
-            echo "No changes detected"
+            echo "No changes."
           fi
