@@ -42,7 +42,7 @@ jobs:
 
     - name: Insert rules total into chnbgp.list
       run: |
-        sed -i "3i # Rules Total: $line_count\n" chnbgp.list
+        sed -i "3i # Total: $line_count\n" chnbgp.list
 
     - name: Commit and push
       env:
