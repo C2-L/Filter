@@ -1,4 +1,4 @@
-name: BGP List Update
+name: BGP-CHN List Update
 
 on:
   schedule:
