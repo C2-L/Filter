@@ -1,4 +1,4 @@
-name: Update ASN.China.list
+name: ASN-CHN List Update
 
 on:
   schedule:
