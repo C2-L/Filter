@@ -25,7 +25,7 @@ jobs:
             echo "# Name: ASN information in China"
             echo "# Total: $total"
             cat processed.list
-          } > ASN.China.list
+          } > chnasn.list
           rm ASN.China.list.tmp temp.list processed.list
 
       - name: Commit and push updates
@@ -35,7 +35,7 @@ jobs:
           if git diff --quiet; then
             echo "No changes."
           else
-            git add ASN.China.list
-            git commit -m "Update ASN.China.list"
+            git add chnasn.list
+            git commit -m "Update chnasn.list [skip ci]"
             git push
           fi
