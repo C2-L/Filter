@@ -21,9 +21,9 @@ jobs:
         export TZ="Asia/Shanghai"
         current_time=$(date +"# Update Time: %m/%d/%Y %H:%M:%S")
         unset TZ
-        echo "$current_time" > chnrouters.list
-        head -n 1 chnroutes.txt >> chnrouters.list
-        tail -n +3 chnroutes.txt | sed 's/^/IP-CIDR,/' >> chnrouters.list
+        echo "$current_time" > chnbgp.list
+        head -n 1 chnroutes.txt >> chnbgp.list
+        tail -n +3 chnroutes.txt | sed 's/^/IP-CIDR,/' >> chnbgp.list
 
     - name: Download china6.txt
       run: curl -O https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt
@@ -31,18 +31,18 @@ jobs:
     - name: Prepend IP-CIDR6 to china6.txt
       run: sed 's/^/IP-CIDR6,/' china6.txt > china6_processed.txt
 
-    - name: Append china6_processed.txt to chnrouters.list
-      run: cat china6_processed.txt >> chnrouters.list
+    - name: Append china6_processed.txt to chnbgp.list
+      run: cat china6_processed.txt >> chnbgp.list
 
-    - name: Count lines in chnrouters.list (excluding top 2 lines)
+    - name: Count lines in chnbgp.list (excluding top 2 lines)
       run: |
-        line_count=$(tail -n +3 chnrouters.list | wc -l)
+        line_count=$(tail -n +3 chnbgp.list | wc -l)
         echo "Total lines (excluding top 2): $line_count"
         echo "line_count=$line_count" >> $GITHUB_ENV
 
-    - name: Insert rules total into chnrouters.list
+    - name: Insert rules total into chnbgp.list
       run: |
-        sed -i "3i # Rules Total: $line_count\n" chnrouters.list
+        sed -i "3i # Rules Total: $line_count\n" chnbgp.list
 
     - name: Commit and push
       env:
@@ -50,6 +50,6 @@ jobs:
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git add chnrouters.list
+        git add chnbgp.list
         git commit -m "Update processed routes with total rules"
         git push
