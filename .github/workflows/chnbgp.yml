@@ -44,7 +44,7 @@ jobs:
         sed -i "3i # Total: $line_count\n" chnbgp.list
 
     - name: Commit and push updates
-        run: |
+      run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
