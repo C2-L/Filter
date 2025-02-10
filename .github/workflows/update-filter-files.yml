@@ -4,27 +4,24 @@ on:
   schedule:
     - cron: '0 4 * * *'
     - cron: '0 16 * * *'
-  workflow_dispatch: # 允许手动触发
+  workflow_dispatch:
 
 jobs:
   update_filters:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出当前仓库代码
         uses: actions/checkout@v3
 
       - name: Download and edit Filter files
         run: |
-          # 定义需要处理的文件列表
           files=("Apple.list" "Cloudflare.list" "GitHub.list" "Microsoft.list" "China.list" "Streaming.list" "GlobalMax.list")
-          # 获取北京时间更新时间，格式为 MM/DD/YYYY HH:MM:SS
           update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
           for file in "${files[@]}"; do
             echo "正在处理 ${file}..."
             url="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Ruleset/${file}"
             {
               echo "# Update Time: $update_time"
-              curl -L "$url" | sed 's/,no-resolve//g'
+              curl -L "$url" | sed -e 's/,no-resolve//g' -e 's/规则名称/Name/g' -e 's/规则统计/Total/g'
             } > "$file"
           done
 
