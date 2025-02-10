@@ -1,4 +1,4 @@
-name: Process Misaka BGP List
+name: BGP List Update
 
 on:
   schedule:
