@@ -1,6 +1,6 @@
-# Update Time: 02/10/2025 00:13:19
-# 规则名称: GitHub
-# 规则统计: 6
+# Update Time: 02/10/2025 10:38:35
+# Name: GitHub
+# Total: 6
 
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
