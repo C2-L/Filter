@@ -13,20 +13,23 @@ jobs:
 
     - name: Generate chnbgp.list
       run: |
+        # Time set
         export TZ="Asia/Shanghai"
         current_time=$(date +"# Update Time: %m/%d/%Y %H:%M:%S")
         unset TZ
         echo "$current_time" > chnbgp.list
 
-        curl -s https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt | \
-          awk 'NR==1 {print; next} NR>=3 {print "IP-CIDR,"$0}' >> chnbgp.list
+        curl -s https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt | head -n 1 >> chnbgp.list
+        echo "# Total: 0" >> chnbgp.list
+        echo "" >> chnbgp.list
+        curl -s https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt | tail -n +3 | sed 's/^/IP-CIDR,/' >> chnbgp.list
 
-        curl -s https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt | \
-          sed 's/^/IP-CIDR6,/' >> chnbgp.list
+        curl -s https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt | sed 's/^/IP-CIDR6,/' >> chnbgp.list
 
-        line_count=$(tail -n +3 chnbgp.list | wc -l)
-        sed -i "3i # Total: $line_count" chnbgp.list
-        echo "Total lines (excluding top 2): $line_count"
+        line_count=$(tail -n +5 chnbgp.list | wc -l)
+        sed -i "3s/.*/# Total: $line_count/" chnbgp.list
+
+        echo "Total content lines (excluding header and blank): $line_count"
 
     - name: Commit and push updates
       run: |
