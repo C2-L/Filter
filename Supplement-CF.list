@@ -39,3 +39,5 @@ DOMAIN-KEYWORD,generativelanguage
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+# Self-Host Servers
+DOMAIN-SUFFIX,vercel.app
