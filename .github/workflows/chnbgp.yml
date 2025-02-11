@@ -8,40 +8,25 @@ on:
 jobs:
   process:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
 
-    - name: Download chnroutes.txt
-      run: curl -O https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
-
-    - name: Prepend IP-CIDR and add update time
+    - name: Generate chnbgp.list
       run: |
         export TZ="Asia/Shanghai"
         current_time=$(date +"# Update Time: %m/%d/%Y %H:%M:%S")
         unset TZ
         echo "$current_time" > chnbgp.list
-        head -n 1 chnroutes.txt >> chnbgp.list
-        tail -n +3 chnroutes.txt | sed 's/^/IP-CIDR,/' >> chnbgp.list
 
-    - name: Download china6.txt
-      run: curl -O https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt
+        curl -s https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt | \
+          awk 'NR==1 {print; next} NR>=3 {print "IP-CIDR,"$0}' >> chnbgp.list
 
-    - name: Prepend IP-CIDR6 to china6.txt
-      run: sed 's/^/IP-CIDR6,/' china6.txt > china6_processed.txt
+        curl -s https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt | \
+          sed 's/^/IP-CIDR6,/' >> chnbgp.list
 
-    - name: Append china6_processed.txt to chnbgp.list
-      run: cat china6_processed.txt >> chnbgp.list
-
-    - name: Count lines in chnbgp.list (excluding top 2 lines)
-      run: |
         line_count=$(tail -n +3 chnbgp.list | wc -l)
+        sed -i "3i # Total: $line_count" chnbgp.list
         echo "Total lines (excluding top 2): $line_count"
-        echo "line_count=$line_count" >> $GITHUB_ENV
-
-    - name: Insert rules total into chnbgp.list
-      run: |
-        sed -i "3i # Total: $line_count\n" chnbgp.list
 
     - name: Commit and push updates
       run: |
