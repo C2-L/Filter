@@ -2,8 +2,8 @@ name: ASN-CHN List Update
 
 on:
   schedule:
-    - cron: '0 4 * * *'
-    - cron: '0 16 * * *'
+    - cron: '0 21 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 jobs:
