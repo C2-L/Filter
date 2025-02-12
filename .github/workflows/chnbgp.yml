@@ -19,12 +19,12 @@ jobs:
         unset TZ
         echo "$current_time" > chnbgp.list
 
-        curl -s https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt | head -n 1 >> chnbgp.list
+        curl -sSL https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt | head -n 1 >> chnbgp.list
         echo "# Total: 0" >> chnbgp.list
         echo "" >> chnbgp.list
-        curl -s https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt | tail -n +3 | sed 's/^/IP-CIDR,/' >> chnbgp.list
+        curl -sSL https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt | tail -n +3 | sed 's/^/IP-CIDR,/' >> chnbgp.list
 
-        curl -s https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt | sed 's/^/IP-CIDR6,/' >> chnbgp.list
+        curl -sSL https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt | sed 's/^/IP-CIDR6,/' >> chnbgp.list
 
         line_count=$(tail -n +5 chnbgp.list | wc -l)
         sed -i "3s/.*/# Total: $line_count/" chnbgp.list
