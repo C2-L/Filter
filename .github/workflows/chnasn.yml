@@ -22,7 +22,7 @@ jobs:
           total=$((line_count - 1))
           {
             echo "# Update Time: $(TZ=Asia/Shanghai date '+%m/%d/%Y %H:%M:%S')"
-            echo "# Name: ASN information in China"
+            echo "# Ruleset Name: ASN-CHN Information"
             echo "# Total: $total"
             cat processed.list
           } > chnasn.list
