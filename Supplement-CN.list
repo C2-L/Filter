@@ -75,14 +75,14 @@ DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
-# Apple Service Supplement
+# Apple Services Supplement
 DOMAIN,appldnld.apple.com.edgesuite.net
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.cloudflare.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,icons.axm-usercontent-apple.com
 DOMAIN,token.safebrowsing.apple
 DOMAIN,upload.appleschoolcontent.com
-DOMAIN,apple-relay.fastly-edge.com
-DOMAIN,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,digicert.com
