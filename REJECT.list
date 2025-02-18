@@ -18,6 +18,8 @@ DOMAIN,app-measurement.com
 DOMAIN,app-analytics-services.com
 DOMAIN,cdn.usefathom.com
 DOMAIN,jap.craftyeta.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,mobile-messenger.intercom.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,google-analytics.com
