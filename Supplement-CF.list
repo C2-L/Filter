@@ -39,3 +39,9 @@ DOMAIN-KEYWORD,generativelanguage
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+# Grok
+DOMAIN,assetsconfigcdn.org
+DOMAIN,beyondwickedmapping.org
+DOMAIN,nexus-websocket-a.intercom.io
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,mobile-messenger.intercom.com
