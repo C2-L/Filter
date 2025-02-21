@@ -376,3 +376,5 @@ DOMAIN-SUFFIX,singular.net
 # Zoho Mail
 DOMAIN,smtp.zoho.com
 DOMAIN,imap.zoho.com
+# Router Services
+DOMAIN-KEYWORD,linksys
