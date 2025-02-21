@@ -1,6 +1,6 @@
-# Update Time: 02/21/2025 05:16:42
+# Update Time: 02/21/2025 17:19:27
 # Ruleset Name: International
-# Total: 31137
+# Total: 31138
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -12762,6 +12762,7 @@ DOMAIN-SUFFIX,hentaivideoworld.com
 DOMAIN-SUFFIX,hentaivn.de
 DOMAIN-SUFFIX,hentaivn.la
 DOMAIN-SUFFIX,hentaivn.net
+DOMAIN-SUFFIX,hentaivox.com
 DOMAIN-SUFFIX,hentaivvz.com
 DOMAIN-SUFFIX,hentaiworld.eu
 DOMAIN-SUFFIX,hentaiworld.tv
