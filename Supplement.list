@@ -110,12 +110,6 @@ DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,zeabur.com
 DOMAIN-KEYWORD,stripe
 IP-CIDR,95.161.76.101/32
-# AI Services
-DOMAIN,cdn-lfs-us-1.hf.co
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,txyz.ai
 # Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,assets.customer.io
