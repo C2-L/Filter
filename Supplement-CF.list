@@ -44,3 +44,5 @@ DOMAIN,assetsconfigcdn.org
 DOMAIN,beyondwickedmapping.org
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+# Vercel Projects
+DOMAIN-SUFFIX,vercel.app
