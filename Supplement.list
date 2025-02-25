@@ -30,8 +30,6 @@ DOMAIN,hdhive.online
 DOMAIN,tv.iill.top
 DOMAIN,claw.cloud
 DOMAIN,portal.allsitecontrol.com
-DOMAIN-SUFFIX,hihimanga.com
-DOMAIN-SUFFIX,krea.ai
 DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,macosicons.com
@@ -45,8 +43,6 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,tw.voicetube.com
-DOMAIN-SUFFIX,baozimh.com
-DOMAIN-SUFFIX,baozicdn.com
 DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,czmanga.com
 DOMAIN-SUFFIX,statcounter.com
@@ -54,7 +50,6 @@ DOMAIN-SUFFIX,surge.community
 DOMAIN-SUFFIX,91unicorn.cloud
 DOMAIN-SUFFIX,manhwatop.com
 DOMAIN-SUFFIX,18comic.vip
-DOMAIN-SUFFIX,happymh.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,netflav.com
