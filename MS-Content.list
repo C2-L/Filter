@@ -1,3 +1,4 @@
+# MSC
 DOMAIN,gd.9521732.xyz
 DOMAIN,emby2.029902.xyz
 DOMAIN,emby4.029902.xyz
@@ -24,3 +25,6 @@ DOMAIN,free.emby.eu.org
 DOMAIN,cdn1.nebula-media.org
 DOMAIN,hka-emby3.aliz.work
 IP-CIDR,152.70.233.134/32
+# ANIME
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agemys.org
