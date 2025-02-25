@@ -108,7 +108,6 @@ IP-CIDR,95.161.76.101/32
 # MANGA
 DOMAIN-SUFFIX,baozimh.com
 DOMAIN-SUFFIX,baozicdn.com
-DOMAIN-SUFFIX,hihimanga.com
 DOMAIN-SUFFIX,happymh.com
 # Providers
 DOMAIN,ww1.12345.al
