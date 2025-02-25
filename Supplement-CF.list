@@ -3,6 +3,10 @@ DOMAIN,open-ai-chat-omega.vercel.app
 DOMAIN,desktop-release.notion-static.com
 DOMAIN,dl.nssurge.com
 DOMAIN,releases.arc.net
+DOMAIN-SUFFIX,baozimh.com
+DOMAIN-SUFFIX,baozicdn.com
+DOMAIN-SUFFIX,hihimanga.com
+DOMAIN-SUFFIX,happymh.com
 #
 # LLM
 # OpenAI
@@ -49,6 +53,7 @@ DOMAIN,cdn-lfs-us-1.hf.co
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,krea.ai
 DOMAIN-SUFFIX,txyz.ai
 # Vercel Projects
 DOMAIN-SUFFIX,vercel.app
