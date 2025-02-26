@@ -46,7 +46,6 @@ DOMAIN,beyondwickedmapping.org
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 # Other AI Services
-DOMAIN,cdn-lfs-us-1.hf.co
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,groq.com
