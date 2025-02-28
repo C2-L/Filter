@@ -10,13 +10,10 @@ DOMAIN,svipsvip.ffzy-online5.com
 DOMAIN,m3.libvio.cloud
 DOMAIN,images.weserv.nl
 DOMAIN,cupfox.app
-DOMAIN,bigmodel.ai
-DOMAIN,media.nijigem.by
 DOMAIN,epg.aptv.app
 DOMAIN,api.rc-backup.com
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,libvio.cloud
-DOMAIN-SUFFIX,cdn.bgp.yt
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,ssrfun.com
 DOMAIN-SUFFIX,cdnlz1.com
@@ -44,6 +41,8 @@ DOMAIN-SUFFIX,us.kg
 DOMAIN,static.intercomassets.com
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,volces.com
+# Zhipu
+DOMAIN-SUFFIX,bigmodel.ai
 # Kimi
 DOMAIN,easytomessage.com
 DOMAIN-SUFFIX,kimi.ai
