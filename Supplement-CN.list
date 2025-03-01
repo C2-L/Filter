@@ -13,6 +13,7 @@ DOMAIN,cupfox.app
 DOMAIN,epg.aptv.app
 DOMAIN,api.rc-backup.com
 DOMAIN,default.cdn.bgp.yt
+DOMAIN-SUFFIX,file.cache.docer.com
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,libvio.cloud
 DOMAIN-SUFFIX,doubao.com
