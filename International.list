@@ -1,6 +1,6 @@
-# Update Time: 03/10/2025 05:15:52
+# Update Time: 03/10/2025 17:17:42
 # Ruleset Name: International
-# Total: 31445
+# Total: 31446
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -27465,6 +27465,7 @@ DOMAIN-SUFFIX,twitturly.com
 DOMAIN-SUFFIX,twitvid.com
 DOMAIN-SUFFIX,twitzap.com
 DOMAIN-SUFFIX,twiyia.com
+DOMAIN-SUFFIX,twkan.com
 DOMAIN-SUFFIX,twlegs.com
 DOMAIN-SUFFIX,twline5.com
 DOMAIN-SUFFIX,twnextdigital.com
