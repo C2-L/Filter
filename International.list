@@ -1,6 +1,6 @@
-# Update Time: 03/12/2025 05:14:46
+# Update Time: 03/12/2025 17:20:58
 # Ruleset Name: International
-# Total: 31446
+# Total: 31445
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -22607,7 +22607,6 @@ DOMAIN-SUFFIX,qianglie.com
 DOMAIN-SUFFIX,qiangwaikan.com
 DOMAIN-SUFFIX,qiangyou.org
 DOMAIN-SUFFIX,qianmo.tw
-DOMAIN-SUFFIX,qiao-cn.com
 DOMAIN-SUFFIX,qidian.ca
 DOMAIN-SUFFIX,qienkuen.org
 DOMAIN-SUFFIX,qinav.com
