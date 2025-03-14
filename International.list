@@ -1,6 +1,6 @@
-# Update Time: 03/14/2025 05:18:02
+# Update Time: 03/14/2025 17:20:40
 # Ruleset Name: International
-# Total: 31445
+# Total: 31446
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -22260,6 +22260,7 @@ DOMAIN-SUFFIX,ppb-mod.buzz
 DOMAIN-SUFFIX,ppe.lawyer
 DOMAIN-SUFFIX,pplah.com
 DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,ppp91.cc
 DOMAIN-SUFFIX,pppds.com
 DOMAIN-SUFFIX,ppre.ac.uk
