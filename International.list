@@ -1,6 +1,6 @@
-# Update Time: 03/18/2025 05:18:05
+# Update Time: 03/18/2025 17:21:55
 # Ruleset Name: International
-# Total: 31391
+# Total: 31392
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -22231,6 +22231,7 @@ DOMAIN-SUFFIX,practicum.ac.uk
 DOMAIN-SUFFIX,pramu.ac.uk
 DOMAIN-SUFFIX,prastitutki.ru
 DOMAIN-SUFFIX,prayforchina.net
+DOMAIN-SUFFIX,prcleader.org
 DOMAIN-SUFFIX,pre-bmwgroup.jobs
 DOMAIN-SUFFIX,predictivetechnologies.com
 DOMAIN-SUFFIX,premeforwindows7.com
