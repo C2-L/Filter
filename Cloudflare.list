@@ -1,8 +1,7 @@
-# Update Time: 03/18/2025 17:21:55
+# Update Time: 03/19/2025 05:17:50
 # Ruleset Name: Cloudflare
-# Total: 68
+# Total: 65
 
-DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
@@ -14,8 +13,6 @@ DOMAIN-SUFFIX,cftest7.com
 DOMAIN-SUFFIX,cftest8.com
 DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflare-ech.com
-DOMAIN-SUFFIX,cloudflare-gateway.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflare.com
@@ -29,7 +26,6 @@ DOMAIN-SUFFIX,cloudflarecn.net
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflareok.com
-DOMAIN-SUFFIX,cloudflareportal.com
 DOMAIN-SUFFIX,cloudflarepreview.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflareresolve.com
@@ -52,7 +48,8 @@ DOMAIN-SUFFIX,workers.dev
 IP-CIDR,103.21.244.0/22
 IP-CIDR,103.22.200.0/22
 IP-CIDR,103.31.4.0/22
-IP-CIDR,104.16.0.0/12
+IP-CIDR,104.16.0.0/13
+IP-CIDR,104.24.0.0/14
 IP-CIDR,108.162.192.0/18
 IP-CIDR,131.0.72.0/22
 IP-CIDR,141.101.64.0/18
