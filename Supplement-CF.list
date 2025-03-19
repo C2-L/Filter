@@ -99,3 +99,5 @@ DOMAIN-SUFFIX,krea.ai
 DOMAIN-SUFFIX,txyz.ai
 # Vercel Projects
 DOMAIN-SUFFIX,vercel.app
+# Other Services
+DOMAIN,api.trakt.tv
