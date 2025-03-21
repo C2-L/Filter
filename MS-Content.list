@@ -23,7 +23,10 @@ DOMAIN,cfloacl2.emby.moe
 DOMAIN,cfhd.xmsl.org
 DOMAIN,ushd.xmsl.org
 DOMAIN,free.emby.eu.org
+DOMAIN,cdn.nebula-media.org
 DOMAIN,cdn1.nebula-media.org
+DOMAIN,cdn2.nebula-media.org
+DOMAIN,cdn3.nebula-media.org
 DOMAIN,hka-emby3.aliz.work
 IP-CIDR,152.70.233.134/32
 # HF Download
