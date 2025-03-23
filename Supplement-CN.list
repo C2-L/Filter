@@ -12,13 +12,6 @@ DOMAIN,images.weserv.nl
 DOMAIN,cupfox.app
 DOMAIN,epg.aptv.app
 DOMAIN,api.rc-backup.com
-DOMAIN,media.nijigem.by
-DOMAIN,ct.cdn.bgp.yt
-DOMAIN,cu.cdn.bgp.yt
-DOMAIN,default.cdn.bgp.yt
-DOMAIN,cfhd.xmsl.org
-DOMAIN,cfloacl.emby.moe
-DOMAIN,cfloacl2.emby.moe
 DOMAIN,cdn.aiqingyu1314.com
 DOMAIN,cdn.aqdstatic.com
 DOMAIN-SUFFIX,iill.top
@@ -48,6 +41,14 @@ DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
 IP-CIDR,152.70.233.134/32
+# MSC
+DOMAIN,media.nijigem.by
+DOMAIN,ct.cdn.bgp.yt
+DOMAIN,cu.cdn.bgp.yt
+DOMAIN,default.cdn.bgp.yt
+DOMAIN,cfhd.xmsl.org
+DOMAIN,cfloacl.emby.moe
+DOMAIN,cfloacl2.emby.moe
 ## AI Services
 # General
 DOMAIN,static.intercomassets.com
