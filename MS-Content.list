@@ -15,6 +15,10 @@ DOMAIN,seus.loseremby.org
 DOMAIN,ushd.xmsl.org
 DOMAIN,free.emby.eu.org
 DOMAIN,cdn1.nebula-media.org
+DOMAIN,cfhd.xmsl.org
+DOMAIN,cfloacl.emby.moe
+DOMAIN,cfloacl2.emby.moe
+IP-CIDR,152.70.233.134/32
 # HF Download
 DOMAIN,cdn-lfs-us-1.hf.co
 # AGEANI
