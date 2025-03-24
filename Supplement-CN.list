@@ -42,9 +42,10 @@ DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
 # MSC
 DOMAIN,media.nijigem.by
-DOMAIN,ct.cdn.bgp.yt
-DOMAIN,cu.cdn.bgp.yt
 DOMAIN,default.cdn.bgp.yt
+DOMAIN,ct.cdn.bgp.yt
+DOMAIN,us-w.cdn.bgp.yt
+DOMAIN,cu.cdn.bgp.yt
 ## AI Services
 # General
 DOMAIN,static.intercomassets.com
