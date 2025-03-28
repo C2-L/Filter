@@ -1,6 +1,6 @@
-# Update Time: 03/28/2025 05:18:39
+# Update Time: 03/28/2025 17:21:23
 # Ruleset Name: China
-# Total: 610
+# Total: 612
 
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,88cdn.com
+DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,acfun.tv
@@ -147,6 +148,7 @@ DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn163.net
 DOMAIN-SUFFIX,cnblogs.com
