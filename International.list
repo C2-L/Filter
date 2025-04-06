@@ -1,6 +1,6 @@
-# Update Time: 04/06/2025 05:17:53
+# Update Time: 04/06/2025 17:18:38
 # Ruleset Name: International
-# Total: 31408
+# Total: 31409
 
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -20668,6 +20668,7 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opendemocracy.net
+DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,opendroneid.org
