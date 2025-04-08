@@ -7,6 +7,8 @@ DOMAIN,emby.nebula-media.org
 DOMAIN,web.nebula-media.org
 DOMAIN,film.hovervan.org
 DOMAIN,789.123456.al
+# IPTV
+DOMAIN,drive.mxmy.net
 IP-CIDR,148.135.93.213/32
 # AGEANI
 DOMAIN-SUFFIX,agedm.org
