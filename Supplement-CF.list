@@ -1,7 +1,3 @@
-# General
-DOMAIN,webresultproxy.diabrowser.engineering
-DOMAIN-SUFFIX,surge-activation.com
-IP-CIDR,13.248.139.174/32
 # Notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,notion-static.com
@@ -94,5 +90,11 @@ DOMAIN-SUFFIX,txyz.ai
 DOMAIN-SUFFIX,inceptionai.ai
 # Vercel Projects
 DOMAIN-SUFFIX,vercel.app
+# Surge Service
+DOMAIN,www.surge-activation.com
+DOMAIN,surge.mitsea.com
+DOMAIN-SUFFIX,nssurge.com
+IP-CIDR,13.248.139.174/32
 # Other Services
 DOMAIN,api.trakt.tv
+DOMAIN,webresultproxy.diabrowser.engineering
