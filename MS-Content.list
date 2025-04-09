@@ -22,5 +22,9 @@ DOMAIN,cfloacl.emby.moe
 DOMAIN,cfloacl2.emby.moe
 DOMAIN,media.nijigem.by
 IP-CIDR,152.70.233.134/32
-# HF Download
+# Large File Download
 DOMAIN,cdn-lfs-us-1.hf.co
+DOMAIN,desktop-release.notion-static.com
+DOMAIN,releases.arc.net
+DOMAIN,dl.nssurge.com
+DOMAIN-SUFFIX,charliemonroe.net
