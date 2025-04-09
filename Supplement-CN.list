@@ -77,6 +77,7 @@ DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
 # MSC Supplement
 DOMAIN,media.nijigem.by
+DOMAIN,default.cdn.bgp.yt
 DOMAIN,ct.cdn.bgp.yt
 DOMAIN,us-w.cdn.bgp.yt
 DOMAIN,cu.cdn.bgp.yt
