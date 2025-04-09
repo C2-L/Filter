@@ -21,6 +21,10 @@ DOMAIN,cfhd.xmsl.org
 DOMAIN,cfloacl.emby.moe
 DOMAIN,cfloacl2.emby.moe
 DOMAIN,media.nijigem.by
+DOMAIN,default.cdn.bgp.yt
+DOMAIN,ct.cdn.bgp.yt
+DOMAIN,us-w.cdn.bgp.yt
+DOMAIN,cu.cdn.bgp.yt
 IP-CIDR,152.70.233.134/32
 # Large File Download
 DOMAIN,cdn-lfs-us-1.hf.co
