@@ -1,11 +1,5 @@
 # General
 DOMAIN,webresultproxy.diabrowser.engineering
-DOMAIN,desktop-release.notion-static.com
-DOMAIN,releases.arc.net
-DOMAIN,dl.nssurge.com
-DOMAIN,nic.eu.org
-DOMAIN-SUFFIX,charliemonroe.net
-DOMAIN-SUFFIX,hihimanga.com
 DOMAIN-SUFFIX,surge-activation.com
 IP-CIDR,13.248.139.174/32
 # Notion
