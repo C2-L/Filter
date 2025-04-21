@@ -27,8 +27,6 @@ DOMAIN,mangafoxfull.com
 DOMAIN,cn.bg3.co
 DOMAIN,hdhive.online
 DOMAIN,claw.cloud
-DOMAIN,www.twmanga.com
-DOMAIN,www.baozimh.com
 DOMAIN,portal.allsitecontrol.com
 DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,hysteria.network
@@ -106,6 +104,7 @@ DOMAIN-SUFFIX,zeabur.com
 DOMAIN-KEYWORD,stripe
 IP-CIDR,95.161.76.101/32
 # MANGA
+DOMAIN-SUFFIX,twmanga.com
 DOMAIN-SUFFIX,baozimh.com
 DOMAIN-SUFFIX,baozicdn.com
 DOMAIN-SUFFIX,happymh.com
