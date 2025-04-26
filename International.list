@@ -1,6 +1,6 @@
-# Update Time: 04/26/2025 05:19:04
+# Update Time: 04/26/2025 17:19:29
 # Ruleset Name: International
-# Total: 31595
+# Total: 31593
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -12225,7 +12225,6 @@ DOMAIN-SUFFIX,gotgayporn.com
 DOMAIN-SUFFIX,gotgeeks.com
 DOMAIN-SUFFIX,gothdporn.com
 DOMAIN-SUFFIX,gotporn.com
-DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotraffic.net
 DOMAIN-SUFFIX,gotrusted.com
 DOMAIN-SUFFIX,gotw.ca
@@ -14031,7 +14030,6 @@ DOMAIN-SUFFIX,idiomconnection.com
 DOMAIN-SUFFIX,idlcoyote.com
 DOMAIN-SUFFIX,idnike.com
 DOMAIN-SUFFIX,idol-sagasukun.com
-DOMAIN-SUFFIX,idope.se
 DOMAIN-SUFFIX,idouga.com
 DOMAIN-SUFFIX,idras.ac.uk
 DOMAIN-SUFFIX,idreamx.com
@@ -19582,6 +19580,7 @@ DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,newroutephd.ac.uk
 DOMAIN-SUFFIX,news.co.uk
 DOMAIN-SUFFIX,news.com.au
+DOMAIN-SUFFIX,news.mt.co.kr
 DOMAIN-SUFFIX,news.net.au
 DOMAIN-SUFFIX,news1.kr
 DOMAIN-SUFFIX,news100.com.tw
@@ -25831,7 +25830,6 @@ DOMAIN-SUFFIX,stxmosquitoproject.com
 DOMAIN-SUFFIX,stxmosquitoproject.net
 DOMAIN-SUFFIX,stxmosquitoproject.org
 DOMAIN-SUFFIX,sub147.com
-DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,sublimedirectory.com
 DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,submarin.online
