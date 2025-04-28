@@ -22,10 +22,4 @@ DOMAIN,cfhd.xmsl.org
 DOMAIN,cfloacl.emby.moe
 DOMAIN,cfloacl2.emby.moe
 IP-CIDR,152.70.233.134/32
-# Large File Download
-DOMAIN,cdn-lfs-us-1.hf.co
-DOMAIN,desktop-release.notion-static.com
-DOMAIN,releases.arc.net
-DOMAIN,dl.nssurge.com
-DOMAIN-SUFFIX,ncdn.ec
-DOMAIN-SUFFIX,charliemonroe.net
+
