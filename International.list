@@ -1,6 +1,6 @@
-# Update Time: 04/30/2025 05:18:46
+# Update Time: 04/30/2025 17:22:28
 # Ruleset Name: International
-# Total: 31593
+# Total: 31594
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -26770,6 +26770,7 @@ DOMAIN-SUFFIX,thotsbay.tv
 DOMAIN-SUFFIX,thottok.com
 DOMAIN-SUFFIX,thotvids.com
 DOMAIN-SUFFIX,threadreaderapp.com
+DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,threatchaos.com
 DOMAIN-SUFFIX,thri.xxx
