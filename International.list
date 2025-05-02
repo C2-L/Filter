@@ -1,6 +1,6 @@
-# Update Time: 05/02/2025 05:18:40
+# Update Time: 05/02/2025 17:21:45
 # Ruleset Name: International
-# Total: 31594
+# Total: 31597
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -5047,6 +5047,7 @@ DOMAIN-SUFFIX,brni.com
 DOMAIN-SUFFIX,broadbandreports.com
 DOMAIN-SUFFIX,broadbook.com
 DOMAIN-SUFFIX,broadcast.co.nz
+DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,broadpressinc.com
 DOMAIN-SUFFIX,broadstairscollege.ac.uk
 DOMAIN-SUFFIX,brocaproject.com
@@ -18744,6 +18745,7 @@ DOMAIN-SUFFIX,msgamesresearch.com
 DOMAIN-SUFFIX,msguancha.com
 DOMAIN-SUFFIX,msha.gov
 DOMAIN-SUFFIX,mshome.net
+DOMAIN-SUFFIX,msi.com
 DOMAIN-SUFFIX,msidentity.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,msk.ilnk.info
@@ -24681,6 +24683,7 @@ DOMAIN-SUFFIX,sinapse.ac.uk
 DOMAIN-SUFFIX,sinchew.com.my
 DOMAIN-SUFFIX,sinchew.my
 DOMAIN-SUFFIX,sinet.ac.uk
+DOMAIN-SUFFIX,sing-box.app
 DOMAIN-SUFFIX,sing4.lat
 DOMAIN-SUFFIX,sing68.com
 DOMAIN-SUFFIX,singaporepools.com.sg
