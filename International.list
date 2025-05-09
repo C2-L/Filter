@@ -1,6 +1,6 @@
-# Update Time: 05/09/2025 05:19:23
+# Update Time: 05/09/2025 17:22:15
 # Ruleset Name: International
-# Total: 31597
+# Total: 31599
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -18018,6 +18018,7 @@ DOMAIN-SUFFIX,mindgeek.com
 DOMAIN-SUFFIX,mindmeld.com
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,mindrolling.org
+DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraft.wiki
 DOMAIN-SUFFIX,minecraftservices.com
@@ -24943,6 +24944,7 @@ DOMAIN-SUFFIX,sneaker666.com
 DOMAIN-SUFFIX,sneakerpage.net
 DOMAIN-SUFFIX,sneakerskick.com
 DOMAIN-SUFFIX,sneakme.net
+DOMAIN-SUFFIX,snjulebu.com
 DOMAIN-SUFFIX,snk-corp.co.jp
 DOMAIN-SUFFIX,snkplaymore.info
 DOMAIN-SUFFIX,snow.me
