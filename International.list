@@ -1,6 +1,6 @@
-# Update Time: 05/10/2025 05:18:22
+# Update Time: 05/10/2025 17:19:22
 # Ruleset Name: International
-# Total: 31599
+# Total: 31600
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -18784,6 +18784,7 @@ DOMAIN-SUFFIX,mtw.tl
 DOMAIN-SUFFIX,mu6bce1c.xyz
 DOMAIN-SUFFIX,muarc.ac.uk
 DOMAIN-SUFFIX,mubi.com
+DOMAIN-SUFFIX,mubicdn.net
 DOMAIN-SUFFIX,muchohentai.com
 DOMAIN-SUFFIX,muchomasporno.com
 DOMAIN-SUFFIX,muchosucko.com
