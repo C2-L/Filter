@@ -42,3 +42,7 @@ DOMAIN-SUFFIX,track.customer.io
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
+# Others
+DOMAIN,hk.yahoo.com
+DOMAIN,www.yahoo.com
+DOMAIN,yahoo.com
