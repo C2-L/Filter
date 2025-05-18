@@ -19,5 +19,7 @@ DOMAIN,releases.arc.net
 DOMAIN,dl.nssurge.com
 DOMAIN-SUFFIX,ncdn.ec
 DOMAIN-SUFFIX,charliemonroe.net
-# Others
+# AGEANI
 DOMAIN-SUFFIX,agefans.la
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agemys.org
