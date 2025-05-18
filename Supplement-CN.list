@@ -82,10 +82,6 @@ DOMAIN,default.cdn.bgp.yt
 DOMAIN,ct.cdn.bgp.yt
 DOMAIN,us-w.cdn.bgp.yt
 DOMAIN,cu.cdn.bgp.yt
-# AGEANI
-DOMAIN-SUFFIX,agefans.la
-DOMAIN-SUFFIX,agedm.org
-DOMAIN-SUFFIX,agemys.org
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
