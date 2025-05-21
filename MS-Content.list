@@ -10,19 +10,12 @@ DOMAIN,chirsemby.top
 DOMAIN,oracle-chuncheon1.embyplus.org
 DOMAIN,hh.embyplus.org
 DOMAIN,stream.embyplus.org
-DOMAIN,orsjc.xmsl.org
-DOMAIN,sede.loseremby.org
-DOMAIN,seus.loseremby.org
-DOMAIN,ushd.xmsl.org
 DOMAIN,free.emby.eu.org
 DOMAIN,cdn1.nebula-media.org
 DOMAIN,emby-cdn1.nebula-media.org
 DOMAIN,cf-cdn1.nebula-media.org
 DOMAIN,cflocal.xxlb.net
+DOMAIN,gyplay.xxlb.net
 DOMAIN,gyplay1.xxlb.net
-DOMAIN,gyplay2.xxlb.net
-DOMAIN,cfhd.xmsl.org
-DOMAIN,cfloacl.emby.moe
-DOMAIN,cfloacl2.emby.moe
 IP-CIDR,152.70.233.134/32
 
