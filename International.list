@@ -1,6 +1,6 @@
-# Update Time: 05/21/2025 05:19:28
+# Update Time: 05/21/2025 17:23:52
 # Ruleset Name: International
-# Total: 31616
+# Total: 31617
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -18749,6 +18749,7 @@ DOMAIN-SUFFIX,msflj.vip
 DOMAIN-SUFFIX,msft.info
 DOMAIN-SUFFIX,msft.net
 DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftncsi.com
