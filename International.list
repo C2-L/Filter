@@ -1,6 +1,6 @@
-# Update Time: 05/29/2025 05:19:11
+# Update Time: 05/29/2025 17:23:10
 # Ruleset Name: International
-# Total: 31646
+# Total: 31647
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -26141,6 +26141,7 @@ DOMAIN-SUFFIX,syfor.click
 DOMAIN-SUFFIX,syhacked.com
 DOMAIN-SUFFIX,sylfoundation.org
 DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symantecliveupdate.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
