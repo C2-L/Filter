@@ -18,10 +18,5 @@ DOMAIN,cflocal.xxlb.net
 DOMAIN,gyplay.xxlb.net
 DOMAIN,gyplay1.xxlb.net
 DOMAIN,gyplay2.xxlb.net
-DOMAIN,media.nijigem.by
-DOMAIN,default.cdn.bgp.yt
-DOMAIN,ct.cdn.bgp.yt
-DOMAIN,us-w.cdn.bgp.yt
-DOMAIN,cu.cdn.bgp.yt
 IP-CIDR,152.70.233.134/32
 
