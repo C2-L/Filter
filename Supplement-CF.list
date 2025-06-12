@@ -83,5 +83,6 @@ DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
 # Other Services
 DOMAIN,api.trakt.tv
+DOMAIN,web.nebula-media.org
 DOMAIN,webresultproxy.diabrowser.engineering
 DOMAIN-SUFFIX,mycomic.com
