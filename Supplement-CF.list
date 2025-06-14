@@ -81,6 +81,10 @@ DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
+# Trakt Service
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,releasenotes.io
 # Other Services
 DOMAIN,web.nebula-media.org
 DOMAIN,wiki.nebula-media.org
