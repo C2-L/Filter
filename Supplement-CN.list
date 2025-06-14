@@ -182,7 +182,8 @@ DOMAIN,drive.mxmy.net
 DOMAIN-SUFFIX,iill.top
 IP-CIDR,148.135.93.213/32
 # Trakt Service
-DOMAIN-SUFFIX,releasenotes.io
 DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,releasenotes.io
 # Router Service
 DOMAIN-KEYWORD,linksys
