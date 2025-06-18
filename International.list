@@ -1,6 +1,6 @@
-# Update Time: 06/18/2025 05:20:13
+# Update Time: 06/18/2025 17:24:27
 # Ruleset Name: International
-# Total: 31790
+# Total: 31791
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -20894,6 +20894,7 @@ DOMAIN-SUFFIX,ontrack.ac.uk
 DOMAIN-SUFFIX,onxxxtube.com
 DOMAIN-SUFFIX,onxxxvideo.com
 DOMAIN-SUFFIX,oocdtp.ac.uk
+DOMAIN-SUFFIX,oojj.de
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,ootbstudio.co.kr
