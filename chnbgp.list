@@ -1,6 +1,6 @@
-# Update Time: 06/19/2025 05:18:49
-# 8813144 routes were dumped from us-iad01-rs01cn-b at Wed Jun 18 21:00:03 UTC 2025.
-# Total: 5686
+# Update Time: 06/19/2025 09:44:06
+# 8809681 routes were dumped from us-iad01-rs01cn-b at Thu Jun 19 01:00:03 UTC 2025.
+# Total: 5687
 
 IP-CIDR,1.1.8.0/24
 IP-CIDR,1.2.4.0/24
@@ -1621,6 +1621,7 @@ IP-CIDR,106.224.0.0/14
 IP-CIDR,106.228.0.0/15
 IP-CIDR,106.230.0.0/16
 IP-CIDR,107.148.84.0/23
+IP-CIDR,107.148.150.0/23
 IP-CIDR,107.149.198.0/23
 IP-CIDR,107.151.212.0/24
 IP-CIDR,107.190.229.0/24
