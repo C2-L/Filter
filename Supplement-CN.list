@@ -178,6 +178,10 @@ DOMAIN,default.cdn.bgp.yt
 DOMAIN,ct.cdn.bgp.yt
 DOMAIN,us-w.cdn.bgp.yt
 DOMAIN,cu.cdn.bgp.yt
+# Trakt Service
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,releasenotes.io
 # IPTV
 DOMAIN,drive.mxmy.net
 DOMAIN-SUFFIX,iill.top
