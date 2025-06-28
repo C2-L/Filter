@@ -173,8 +173,6 @@ DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,worldsecuresystems.com
 DOMAIN-KEYWORD,adobe
 # MS Related Services
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,vvebo.vip
 DOMAIN-SUFFIX,discourse-cdn.com
