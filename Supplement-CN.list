@@ -172,16 +172,18 @@ DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,worldsecuresystems.com
 DOMAIN-KEYWORD,adobe
+# MS Related Services
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,vvebo.vip
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,releasenotes.io
 # MSC Supplement
 DOMAIN,media.nijigem.by
 DOMAIN,default.cdn.bgp.yt
 DOMAIN,ct.cdn.bgp.yt
 DOMAIN,us-w.cdn.bgp.yt
 DOMAIN,cu.cdn.bgp.yt
-# Trakt Service
-DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,discourse-cdn.com
-DOMAIN-SUFFIX,releasenotes.io
 # IPTV
 DOMAIN,drive.mxmy.net
 DOMAIN-SUFFIX,iill.top
