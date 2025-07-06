@@ -1,6 +1,6 @@
-# Update Time: 07/06/2025 05:19:29
+# Update Time: 07/06/2025 17:20:19
 # Ruleset Name: International
-# Total: 31821
+# Total: 31822
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -2926,6 +2926,7 @@ DOMAIN-SUFFIX,avinetworks.com
 DOMAIN-SUFFIX,avinin.com
 DOMAIN-SUFFIX,avizoon.site
 DOMAIN-SUFFIX,avizoone.com
+DOMAIN-SUFFIX,avjb.com
 DOMAIN-SUFFIX,avjiasu.com
 DOMAIN-SUFFIX,avjoy.me
 DOMAIN-SUFFIX,avjzy67.xyz
