@@ -79,10 +79,14 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
 # MS Related
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,themoviedb.org
 DOMAIN,web.nebula-media.org
 DOMAIN,wiki.nebula-media.org
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,vvebo.vip
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,releasenotes.io
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
 # Other Services
 DOMAIN,webresultproxy.diabrowser.engineering
 DOMAIN-SUFFIX,mycomic.com
