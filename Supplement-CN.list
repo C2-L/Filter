@@ -171,6 +171,13 @@ DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,worldsecuresystems.com
 DOMAIN-KEYWORD,adobe
+# MS Related
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,vvebo.vip
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,releasenotes.io
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
 # MSC Supplement
 DOMAIN,media.nijigem.by
 DOMAIN,default.cdn.bgp.yt
