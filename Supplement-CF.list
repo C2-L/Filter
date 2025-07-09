@@ -78,10 +78,9 @@ DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
-# MS Related
+# Other Services
 DOMAIN,web.nebula-media.org
 DOMAIN,wiki.nebula-media.org
-# Other Services
 DOMAIN,webresultproxy.diabrowser.engineering
 DOMAIN-SUFFIX,mycomic.com
 DOMAIN-SUFFIX,agedm.live
