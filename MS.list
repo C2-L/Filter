@@ -15,3 +15,5 @@ DOMAIN,releases.arc.net
 DOMAIN,releases.diabrowser.com
 DOMAIN-SUFFIX,ncdn.ec
 DOMAIN-SUFFIX,charliemonroe.net
+# IPTV
+DOMAIN-SUFFIX,iill.top
