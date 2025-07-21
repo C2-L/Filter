@@ -1,5 +1,5 @@
-07/21/2025 14:05:40
-# Rule Name: Cloudflare
+# 07/21/2025 14:12:24
+# Ruleset Name: Cloudflare
 # Total: 65
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com
