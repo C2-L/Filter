@@ -27,13 +27,13 @@ jobs:
           ts="$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')"
           # China
           grep -Ev 'AUTHOR:|REPO:|UPDATED:|DOMAIN:|DOMAIN-KEYWORD:|DOMAIN-SUFFIX:|IP-CIDR:|IP-CIDR6:|USER-AGENT:' China_All.list \
-            | sed -e 's/NAME:/Rule Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "$ts" | cat - temp > China.list
+            | sed -e 's/NAME:/Ruleset Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "# $ts" | cat - temp > China.list
           # Cloudflare
           grep -Ev 'AUTHOR:|REPO:|UPDATED:|DOMAIN:|DOMAIN-KEYWORD:|DOMAIN-SUFFIX:|IP-CIDR:|IP-CIDR6:|USER-AGENT:' Cloudflare.list \
-            | sed -e 's/NAME:/Rule Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "$ts" | cat - temp > Cloudflare.list
+            | sed -e 's/NAME:/Ruleset Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "# $ts" | cat - temp > Cloudflare.list
           # Streaming
           grep -Ev 'AUTHOR:|REPO:|UPDATED:|DOMAIN:|DOMAIN-KEYWORD:|DOMAIN-SUFFIX:|IP-CIDR:|IP-CIDR6:|PROCESS-NAME:|URL-REGEX:|USER-AGENT:' GlobalMedia_All.list \
-            | sed -e 's/NAME:/Rule Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "$ts" | cat - temp > Streaming.list
+            | sed -e 's/NAME:/Ruleset Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "# $ts" | cat - temp > Streaming.list
 
       - name: Commit and push updates
         run: |
