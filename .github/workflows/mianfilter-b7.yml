@@ -18,15 +18,17 @@ jobs:
           ts="# Update Time: $(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')"
           sed -i '/AUTHOR:/d; /REPO:/d; /UPDATED:/d; /DOMAIN:/d; /DOMAIN-KEYWORD:/d; /DOMAIN-SUFFIX:/d; /DESCRIPTION:/d; /IP-CIDR:/d; /IP-CIDR6:/d; /PROCESS-NAME:/d; /URL-REGEX:/d; /USER-AGENT:/d; s/NAME:/Ruleset Name:/g; s/TOTAL:/Total:/g; s/,no-resolve//g' China.list
           sed -i "1i $ts" China.list
-          sed -i '3a\' China.list
-          
+          sed -i '3a\\
+          ' China.list
+                    
       - name: Download and modify Cloudflare.list
         run: |
           curl -sS https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list -o Cloudflare.list
           ts="# Update Time: $(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')"
           sed -i '/AUTHOR:/d; /REPO:/d; /UPDATED:/d; /DOMAIN:/d; /DOMAIN-KEYWORD:/d; /DOMAIN-SUFFIX:/d; /DESCRIPTION:/d; /IP-CIDR:/d; /IP-CIDR6:/d; /PROCESS-NAME:/d; /URL-REGEX:/d; /USER-AGENT:/d; s/NAME:/Ruleset Name:/g; s/TOTAL:/Total:/g; s/,no-resolve//g' Cloudflare.list
           sed -i "1i $ts" Cloudflare.list
-          sed -i '3a\' Cloudflare.list
+          sed -i '3a\\
+          ' Cloudflare.list
           
       - name: Download and modify GlobalMedia_All.list
         run: |
@@ -34,7 +36,8 @@ jobs:
           ts="# Update Time: $(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')"
           sed -i '/AUTHOR:/d; /REPO:/d; /UPDATED:/d; /DOMAIN:/d; /DOMAIN-KEYWORD:/d; /DOMAIN-SUFFIX:/d; /DESCRIPTION:/d; /IP-CIDR:/d; /IP-CIDR6:/d; /PROCESS-NAME:/d; /URL-REGEX:/d; /USER-AGENT:/d; s/NAME:/Ruleset Name:/g; s/TOTAL:/Total:/g; s/GlobalMedia/Streaming/g; s/,no-resolve//g' Streaming.list
           sed -i "1i $ts" Streaming.list
-          sed -i '3a\' Streaming.list
+          sed -i '3a\\
+          ' Streaming.list
 
       - name: Commit and push updates
         run: |
