@@ -1,0 +1,43 @@
+name: Main Filter Files (B7) Update
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  update_filters:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download and edit Filter files
+        run: |
+          # Definition of the list of files to be processed
+          files=("Cloudflare/Cloudflare.list" "China/China_All.list" "GlobalMedia/GlobalMedia_All.list")
+          # Get GMT+8 time update, formatted as MM/DD/YYYY HH:MM:SS.
+          update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
+          for file in "${files[@]}"; do
+            echo "正在处理 ${file}..."
+            url="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/${file}"
+            {
+              echo "# Update Time: $update_time"
+              curl -sSL "$url" | sed -e 's/,no-resolve//g' -e 's/NAME:/Ruleset Name:/g' -e 's/规则统计/Total/g' -e 's/GlobalMedia/Streaming/g' -e '/AUTHOR:/d' -e '/REPO:/d' -e '/UPDATED:/d' -e '/DESCRIPTION:/d' -e '/DOMAIN:/d' -e '/DOMAIN-KEYWORD:/d' -e '/DOMAIN-SUFFIX:/d' -e '/IP-CIDR:/d' -e '/IP-CIDR6:/d' -e '/PROCESS-NAME:/d' -e '/URL-REGEX:/d' -e '/USER-AGENT:/d'
+            } > "$file"
+          done
+
+          mv GlobalMedia_All.list Streaming.list
+          mv China_All.list China.list
+
+      - name: Commit and push updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update Filter Files"
+            git push
+          else
+            echo "No changes."
+          fi
