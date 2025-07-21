@@ -12,23 +12,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download and edit Filter files
+      - name: Download China_All.list
         run: |
-          # Definition of the list of files to be processed
-          files=("Cloudflare/Cloudflare.list" "China/China_All.list" "GlobalMedia/GlobalMedia_All.list")
-          # Get GMT+8 time update, formatted as MM/DD/YYYY HH:MM:SS.
-          update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
-          for file in "${files[@]}"; do
-            echo "正在处理 ${file}..."
-            url="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/${file}"
-            {
-              echo "# Update Time: $update_time"
-              curl -sSL "$url" | sed -e 's/,no-resolve//g' -e 's/NAME:/Ruleset Name:/g' -e 's/规则统计/Total/g' -e 's/GlobalMedia/Streaming/g' -e '/AUTHOR:/d' -e '/REPO:/d' -e '/UPDATED:/d' -e '/DESCRIPTION:/d' -e '/DOMAIN:/d' -e '/DOMAIN-KEYWORD:/d' -e '/DOMAIN-SUFFIX:/d' -e '/IP-CIDR:/d' -e '/IP-CIDR6:/d' -e '/PROCESS-NAME:/d' -e '/URL-REGEX:/d' -e '/USER-AGENT:/d'
-            } > "$file"
-          done
+          curl -sS https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list -o China_All.list
+      - name: Download Cloudflare.list
+        run: |
+          curl -sS https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Cloudflare/Cloudflare.list -o Cloudflare.list
+      - name: Download GlobalMedia_All.list
+        run: |
+          curl -sS https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list -o GlobalMedia_All.list
 
-          mv GlobalMedia_All.list Streaming.list
-          mv China_All.list China.list
+      - name: Edit Files
+        run: |
+          ts="$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')"
+          # China
+          grep -Ev 'AUTHOR:|REPO:|UPDATED:|DOMAIN:|DOMAIN-KEYWORD:|DOMAIN-SUFFIX:|IP-CIDR:|IP-CIDR6:|USER-AGENT:' China_All.list \
+            | sed -e 's/NAME:/Rule Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "$ts" | cat - temp > China.list
+          # Cloudflare
+          grep -Ev 'AUTHOR:|REPO:|UPDATED:|DOMAIN:|DOMAIN-KEYWORD:|DOMAIN-SUFFIX:|IP-CIDR:|IP-CIDR6:|USER-AGENT:' Cloudflare.list \
+            | sed -e 's/NAME:/Rule Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "$ts" | cat - temp > Cloudflare.list
+          # Streaming
+          grep -Ev 'AUTHOR:|REPO:|UPDATED:|DOMAIN:|DOMAIN-KEYWORD:|DOMAIN-SUFFIX:|IP-CIDR:|IP-CIDR6:|PROCESS-NAME:|URL-REGEX:|USER-AGENT:' GlobalMedia_All.list \
+            | sed -e 's/NAME:/Rule Name:/g' -e 's/TOTAL:/Total:/g' -e 's/,no-resolve//g'> temp && echo "$ts" | cat - temp > Streaming.list
 
       - name: Commit and push updates
         run: |
