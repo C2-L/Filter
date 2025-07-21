@@ -15,7 +15,7 @@ jobs:
       - name: Download and edit Filter files
         run: |
           # Definition of the list of files to be processed
-          files=("Apple.list" "GitHub.list" "Microsoft.list" "GlobalMax.list")
+          files=("Apple.list" "GitHub.list" "Microsoft.list" "Global.list")
           # Get GMT+8 time update, formatted as MM/DD/YYYY HH:MM:SS.
           update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
           for file in "${files[@]}"; do
@@ -23,11 +23,11 @@ jobs:
             url="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Ruleset/${file}"
             {
               echo "# Update Time: $update_time"
-              curl -sSL "$url" | sed -e 's/,no-resolve//g' -e 's/规则名称/Ruleset Name/g' -e 's/规则统计/Total/g' -e 's/GlobalMax/International/g'
+              curl -sSL "$url" | sed -e 's/,no-resolve//g' -e 's/规则名称/Ruleset Name/g' -e 's/规则统计/Total/g' -e 's/Global/International/g'
             } > "$file"
           done
 
-          mv GlobalMax.list International.list
+          mv Global.list International.list
 
       - name: Commit and push updates
         run: |
