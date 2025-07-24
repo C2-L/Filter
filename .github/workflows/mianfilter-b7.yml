@@ -2,8 +2,7 @@ name: Main Filter Files (B7) Update
 
 on:
   schedule:
-    - cron: '0 21 * * *'
-    - cron: '0 9 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
