@@ -1,6 +1,6 @@
-# Update Time: 07/26/2025 06:20:20
+# Update Time: 07/26/2025 18:26:21
 # Ruleset Name: International
-# Total: 7320
+# Total: 7321
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -7023,6 +7023,7 @@ DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yanghengjun.com
 DOMAIN-SUFFIX,yangjianli.com
+DOMAIN-SUFFIX,yangzhi.org
 DOMAIN-SUFFIX,yasni.co.uk
 DOMAIN-SUFFIX,yasukuni.or.jp
 DOMAIN-SUFFIX,yayabay.com
