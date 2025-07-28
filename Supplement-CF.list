@@ -54,11 +54,6 @@ DOMAIN-SUFFIX,txyz.ai
 DOMAIN-SUFFIX,inceptionai.ai
 # Vercel Projects
 DOMAIN-SUFFIX,vercel.app
-# Surge Service
-DOMAIN,www.surge-activation.com
-DOMAIN,surge.mitsea.com
-DOMAIN-SUFFIX,nssurge.com
-IP-CIDR,13.248.139.174/32
 # Steam
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcommunity-a.akamaihd.net
@@ -88,7 +83,9 @@ DOMAIN-SUFFIX,themoviedb.org
 # Other Services
 DOMAIN,web.nebula-media.org
 DOMAIN,wiki.nebula-media.org
-DOMAIN,webresultproxy.diabrowser.engineering
+DOMAIN,surge.mitsea.com
+DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,mycomic.com
 DOMAIN-SUFFIX,agedm.live
 DOMAIN-SUFFIX,agedm.vip
+DOMAIN-SUFFIX,diabrowser.engineering
