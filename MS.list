@@ -15,5 +15,8 @@ DOMAIN,releases.arc.net
 DOMAIN,releases.diabrowser.com
 DOMAIN-SUFFIX,ncdn.ec
 DOMAIN-SUFFIX,charliemonroe.net
+# TMDB
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
 # IPTV
 DOMAIN-SUFFIX,iill.top
