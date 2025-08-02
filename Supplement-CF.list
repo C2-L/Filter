@@ -77,9 +77,6 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,releasenotes.io
-# TMDB
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,themoviedb.org
 # Other Services
 DOMAIN,web.nebula-media.org
 DOMAIN,wiki.nebula-media.org
