@@ -1,6 +1,6 @@
-# Update Time: 08/16/2025 06:19:32
+# Update Time: 08/16/2025 18:24:24
 # Ruleset Name: International
-# Total: 7297
+# Total: 7298
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -5664,6 +5664,7 @@ DOMAIN-SUFFIX,sustainability.google
 DOMAIN-SUFFIX,suyangg.com
 DOMAIN-SUFFIX,svsfx.com
 DOMAIN-SUFFIX,swagbucks.com
+DOMAIN-SUFFIX,swapspace.co
 DOMAIN-SUFFIX,swissinfo.ch
 DOMAIN-SUFFIX,swissvpn.net
 DOMAIN-SUFFIX,switch1.jp
