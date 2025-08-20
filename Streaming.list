@@ -1,4 +1,4 @@
-# Update Time: 08/19/2025 12:27:37
+# Update Time: 08/20/2025 12:28:18
 # Ruleset Name: Streaming
 # Total: 2331
 
@@ -2322,12 +2322,12 @@ USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,discovery+*
 USER-AGENT,encoreTVB*
 USER-AGENT,mytv*
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-USER-AGENT,com.google.ios.youtube*
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
 USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtube*
 USER-AGENT,com.google.ios.youtubemusic*
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 PROCESS-NAME,com.viu.pad
