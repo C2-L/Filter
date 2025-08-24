@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,networking.apple
 DOMAIN-SUFFIX,vertexsmb.com
+# Microsoft Services Supplement
+DOMAIN-SUFFIX,azurefd.net
 # Surge Service
 DOMAIN,www.surge-activation.com
 IP-CIDR,13.248.139.174/32
