@@ -1,6 +1,6 @@
-# Update Time: 08/27/2025 06:18:01
+# Update Time: 08/27/2025 18:24:50
 # Ruleset Name: International
-# Total: 7310
+# Total: 7311
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -4041,6 +4041,7 @@ DOMAIN-SUFFIX,mog.com
 DOMAIN-SUFFIX,mohu.club
 DOMAIN-SUFFIX,mohu.ml
 DOMAIN-SUFFIX,mohu.rocks
+DOMAIN-SUFFIX,moj.gov.tw
 DOMAIN-SUFFIX,mojim.com
 DOMAIN-SUFFIX,mol.gov.tw
 DOMAIN-SUFFIX,molihua.org
