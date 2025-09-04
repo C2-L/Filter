@@ -27,7 +27,7 @@ jobs:
             } > "$file"
           done
 
-          mv Global.list International.list
+          mv Global.list International.list GlobalMedia.list Streaming.list
 
       - name: Commit and push updates
         run: |
