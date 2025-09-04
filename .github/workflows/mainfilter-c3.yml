@@ -23,7 +23,7 @@ jobs:
             url="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Ruleset/${file}"
             {
               echo "# Update Time: $update_time"
-              curl -sSL "$url" | sed -e 's/,no-resolve//g' -e 's/规则名称/Ruleset Name/g' -e 's/规则统计/Total/g' -e 's/Global/International/g'
+              curl -sSL "$url" | sed -e 's/,no-resolve//g' -e 's/规则名称/Ruleset Name/g' -e 's/规则统计/Total/g' -e 's/GlobalMedia/Streaming/g' -e 's/Global/International/g'
             } > "$file"
           done
 
