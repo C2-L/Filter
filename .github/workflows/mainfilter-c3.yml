@@ -15,7 +15,7 @@ jobs:
       - name: Download and edit Filter files
         run: |
           # Definition of the list of files to be processed
-          files=("Apple.list" "GitHub.list" "Microsoft.list" "Global.list")
+          files=("Apple.list" "GitHub.list" "Microsoft.list" "Global.list""GlobalMedia.list")
           # Get GMT+8 time update, formatted as MM/DD/YYYY HH:MM:SS.
           update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
           for file in "${files[@]}"; do
