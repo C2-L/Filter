@@ -78,12 +78,7 @@ DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,releasenotes.io
 # Other Services
-DOMAIN,web.nebula-media.org
-DOMAIN,wiki.nebula-media.org
 DOMAIN,surge.mitsea.com
 DOMAIN,mail.djsyyds.one
 DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,mycomic.com
-DOMAIN-SUFFIX,agedm.live
-DOMAIN-SUFFIX,agedm.vip
 DOMAIN-SUFFIX,diabrowser.engineering
