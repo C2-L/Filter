@@ -1,6 +1,6 @@
-# Update Time: 09/27/2025 12:25:35
+# Update Time: 09/28/2025 12:25:59
 # Ruleset Name: China
-# Total: 3754
+# Total: 3755
 
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
@@ -2673,6 +2673,7 @@ DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,qq.cn.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.design
+DOMAIN-SUFFIX,qq.net
 DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,qq.xn--fiqs8s
 DOMAIN-SUFFIX,qq163.com
