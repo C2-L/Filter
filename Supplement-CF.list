@@ -77,9 +77,6 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,releasenotes.io
-# Webcast
-DOMAIN,iptv.jxpan.vip
-DOMAIN,luobo.bkpcp.top
 # Other Services
 DOMAIN,surge.mitsea.com
 DOMAIN,mail.djsyyds.one
