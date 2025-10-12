@@ -1,6 +1,6 @@
-# Update Time: 10/12/2025 06:16:28
+# Update Time: 10/12/2025 18:22:23
 # Ruleset Name: International
-# Total: 7329
+# Total: 7331
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -2178,6 +2178,8 @@ DOMAIN-SUFFIX,freeforums.org
 DOMAIN-SUFFIX,freefq.com
 DOMAIN-SUFFIX,freefuckvids.com
 DOMAIN-SUFFIX,freegao.com
+DOMAIN-SUFFIX,freegpt.es
+DOMAIN-SUFFIX,freegpt.tech
 DOMAIN-SUFFIX,freehongkong.org
 DOMAIN-SUFFIX,freeilhamtohti.org
 DOMAIN-SUFFIX,freekazakhs.org
