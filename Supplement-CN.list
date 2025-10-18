@@ -12,7 +12,8 @@ DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,edge.apple
 DOMAIN-SUFFIX,networking.apple
 DOMAIN-SUFFIX,vertexsmb.com
-IP-CIDR6,2403:300:a04:4000::f1/128
+IP-ASN,714
+IP-ASN,6185
 # Microsoft Services Supplement
 DOMAIN-SUFFIX,azurefd.net
 # Surge Service
