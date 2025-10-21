@@ -8,7 +8,8 @@ DOMAIN,shop.nebula-media.org
 DOMAIN,hezu.v1.mk
 DOMAIN,nannyirrationalacquainted.com
 DOMAIN,privacy-guard-mobile.com
-DOMAIN,malware-safety.com
+DOMAIN-SUFFIX,malware-safety.com
+DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,365h.site
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,wugroansaghadry.com
