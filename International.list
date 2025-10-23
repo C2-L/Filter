@@ -1,6 +1,6 @@
-# Update Time: 10/23/2025 06:15:30
+# Update Time: 10/23/2025 18:27:12
 # Ruleset Name: International
-# Total: 7336
+# Total: 7337
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -1617,6 +1617,7 @@ DOMAIN-SUFFIX,dnvod.tv
 DOMAIN-SUFFIX,doc.new
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerstatus.com
 DOMAIN-SUFFIX,docs.cfw.lbyczf.com
 DOMAIN-SUFFIX,docs.deno.com
 DOMAIN-SUFFIX,docs.new
