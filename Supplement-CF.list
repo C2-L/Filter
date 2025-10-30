@@ -39,6 +39,7 @@ DOMAIN,beyondwickedmapping.org
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 # Copilot
+DOMAIN,mss.office.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 # Other AI Services
