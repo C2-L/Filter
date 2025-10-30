@@ -38,6 +38,9 @@ DOMAIN,assetsconfigcdn.org
 DOMAIN,beyondwickedmapping.org
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+# Copilot
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 # Other AI Services
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,perplexity.ai
