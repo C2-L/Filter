@@ -105,10 +105,6 @@ DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
 # MS Related
 DOMAIN-SUFFIX,vvebo.vip
-# Trakt Service
-DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,discourse-cdn.com
-DOMAIN-SUFFIX,releasenotes.io
 # MSC Supplement
 DOMAIN,media.nijigem.by
 DOMAIN,default.cdn.bgp.yt
