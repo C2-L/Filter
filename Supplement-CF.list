@@ -47,6 +47,10 @@ DOMAIN-SUFFIX,txyz.ai
 DOMAIN-SUFFIX,inceptionai.ai
 # Vercel Projects
 DOMAIN-SUFFIX,vercel.app
+# Trakt Service
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,releasenotes.io
 # Steam
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcommunity-a.akamaihd.net
