@@ -1,6 +1,6 @@
-# Update Time: 11/02/2025 06:17:09
+# Update Time: 11/02/2025 18:23:07
 # Ruleset Name: International
-# Total: 7337
+# Total: 7338
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -5830,6 +5830,7 @@ DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tellme.pw
+DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,tenacy.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
