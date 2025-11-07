@@ -1,6 +1,6 @@
-# Update Time: 11/07/2025 06:19:00
+# Update Time: 11/07/2025 18:27:08
 # Ruleset Name: International
-# Total: 7338
+# Total: 7339
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -2083,6 +2083,7 @@ DOMAIN-SUFFIX,flagsonline.it
 DOMAIN-SUFFIX,flecheinthepeche.fr
 DOMAIN-SUFFIX,fleshbot.com
 DOMAIN-SUFFIX,fleursdeslettres.com
+DOMAIN-SUFFIX,flexclip.com
 DOMAIN-SUFFIX,flexpool.io
 DOMAIN-SUFFIX,flgg.us
 DOMAIN-SUFFIX,flgjustice.org
