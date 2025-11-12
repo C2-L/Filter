@@ -1,6 +1,6 @@
-# Update Time: 11/11/2025 12:29:02
+# Update Time: 11/12/2025 12:29:11
 # Ruleset Name: China
-# Total: 3759
+# Total: 3758
 
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
@@ -2488,7 +2488,6 @@ DOMAIN-SUFFIX,oneyac.com
 DOMAIN-SUFFIX,onlinedown.net
 DOMAIN-SUFFIX,onlinesjtu.com
 DOMAIN-SUFFIX,onlylady.com
-DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,opdown.com
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,openapp.run
