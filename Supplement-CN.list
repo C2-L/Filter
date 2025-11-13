@@ -96,6 +96,10 @@ DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
 # MS Related
+DOMAIN,media.nijigem.by
+DOMAIN,us-w.cdn.bgp.yt
+DOMAIN,ct.cdn.bgp.yt
+DOMAIN,cu.cdn.bgp.yt
 DOMAIN,default.cdn.bgp.yt
 DOMAIN-SUFFIX,vvebo.vip
 # IPTV
