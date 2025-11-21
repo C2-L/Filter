@@ -1,6 +1,6 @@
-# Update Time: 11/21/2025 06:18:32
+# Update Time: 11/21/2025 18:27:33
 # Ruleset Name: International
-# Total: 7369
+# Total: 7371
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -2795,6 +2795,7 @@ DOMAIN-SUFFIX,great-firewall.com
 DOMAIN-SUFFIX,great-roc.org
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,greatfire.us7.list-manage.com
+DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,greatfirewall.biz
 DOMAIN-SUFFIX,greatfirewallofchina.net
 DOMAIN-SUFFIX,greatfirewallofchina.org
@@ -6808,6 +6809,7 @@ DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wikiwand.com
