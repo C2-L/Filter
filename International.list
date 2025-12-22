@@ -1,6 +1,6 @@
-# Update Time: 12/22/2025 06:19:57
+# Update Time: 12/22/2025 18:29:58
 # Ruleset Name: International
-# Total: 7385
+# Total: 7386
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -5637,6 +5637,7 @@ DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,startuplivingchina.com
 DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,static-economist.com
+DOMAIN-SUFFIX,static.pocketcasts.com
 DOMAIN-SUFFIX,static.shemalez.com
 DOMAIN-SUFFIX,static01.nyt.com
 DOMAIN-SUFFIX,statically.io
