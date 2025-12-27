@@ -1,6 +1,6 @@
-# Update Time: 12/27/2025 06:20:36
+# Update Time: 12/27/2025 18:26:55
 # Ruleset Name: International
-# Total: 7387
+# Total: 7388
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -3807,6 +3807,7 @@ DOMAIN-SUFFIX,lorenzetti.com.br
 DOMAIN-SUFFIX,lotsawahouse.org
 DOMAIN-SUFFIX,lotuslight.org.hk
 DOMAIN-SUFFIX,lotuslight.org.tw
+DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,loved.hk
 DOMAIN-SUFFIX,lovetvshow.com
 DOMAIN-SUFFIX,lpsg.com
