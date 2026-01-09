@@ -23,7 +23,7 @@ DOMAIN,embygy.ichinosekotomi.com
 DOMAIN,emos.lol
 IP-CIDR,152.70.233.134/32
 IP-CIDR,209.141.61.153/32
-#Stremio
+# Stremio
 DOMAIN,vixsrc.to
 DOMAIN,pixeldrain.dev
 DOMAIN,dot.clouding.mom
