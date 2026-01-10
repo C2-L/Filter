@@ -1,6 +1,6 @@
-# Update Time: 01/10/2026 06:22:01
+# Update Time: 01/10/2026 18:26:41
 # Ruleset Name: International
-# Total: 7406
+# Total: 7405
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -180,7 +180,6 @@ DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,abitno.linpie.com
 DOMAIN-SUFFIX,ablwang.com
 DOMAIN-SUFFIX,aboluowang.com
-DOMAIN-SUFFIX,about.gitlab.com
 DOMAIN-SUFFIX,about.google
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,abplive.com
