@@ -1,6 +1,6 @@
-# Update Time: 02/02/2026 06:26:04
+# Update Time: 02/02/2026 18:52:41
 # Ruleset Name: International
-# Total: 7420
+# Total: 7421
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -5801,6 +5801,7 @@ DOMAIN-SUFFIX,tafm.org
 DOMAIN-SUFFIX,tagwa.org.au
 DOMAIN-SUFFIX,tagwalk.com
 DOMAIN-SUFFIX,tahr.org.tw
+DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taipeisociety.org
 DOMAIN-SUFFIX,taipeitimes.com
