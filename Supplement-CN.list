@@ -95,8 +95,12 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
-# MS Related
+# Forward
 DOMAIN-SUFFIX,vvebo.vip
+# Trakt Service
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,releasenotes.io
 # IPTV
 DOMAIN,0472.org
 DOMAIN,drive.mxmy.net
