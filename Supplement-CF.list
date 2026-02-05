@@ -59,10 +59,6 @@ DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 # Vercel Projects
 DOMAIN-SUFFIX,vercel.app
-# Trakt Service
-DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,discourse-cdn.com
-DOMAIN-SUFFIX,releasenotes.io
 # Steam
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcommunity-a.akamaihd.net
