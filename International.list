@@ -1,6 +1,6 @@
-# Update Time: 02/06/2026 06:28:16
+# Update Time: 02/06/2026 18:49:52
 # Ruleset Name: International
-# Total: 7423
+# Total: 7424
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -2824,6 +2824,7 @@ DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,grow.google
