@@ -19,3 +19,15 @@ DOMAIN-SUFFIX,charliemonroe.net
 # TMDB
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
+# Stremio
+DOMAIN,vixsrc.to
+DOMAIN,video-seed.pro
+DOMAIN,pixeldrain.dev
+DOMAIN,dot.clouding.mom
+DOMAIN,fsl.master.surf
+DOMAIN,instant.busycdn.cfd
+DOMAIN,cdn.fsl-buckets.life
+DOMAIN-SUFFIX,r2.dev
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,vix-content.net
+DOMAIN-SUFFIX,video-leech.pro
