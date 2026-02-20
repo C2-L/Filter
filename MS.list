@@ -2,9 +2,8 @@
 DOMAIN,free.28.al
 DOMAIN,embyplus.org
 DOMAIN,emby.embyplus.org
-DOMAIN,aca.misakaf.org
-DOMAIN,cf.xmsl.org
-DOMAIN,emby.nebula-media.org
+DOMAIN,cf.xmsl.org,extended-matching
+DOMAIN,emby.nebula-media.org,extended-matching
 DOMAIN,film.hovervan.org
 DOMAIN,bps8m.onyra.cc
 DOMAIN,789.123456.al
@@ -19,15 +18,3 @@ DOMAIN-SUFFIX,charliemonroe.net
 # TMDB
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
-# Stremio
-DOMAIN,vixsrc.to
-DOMAIN,video-seed.pro
-DOMAIN,pixeldrain.dev
-DOMAIN,dot.clouding.mom
-DOMAIN,fsl.master.surf
-DOMAIN,instant.busycdn.cfd
-DOMAIN,cdn.fsl-buckets.life
-DOMAIN-SUFFIX,r2.dev
-DOMAIN-SUFFIX,workers.dev
-DOMAIN-SUFFIX,vix-content.net
-DOMAIN-SUFFIX,video-leech.pro
