@@ -1,6 +1,6 @@
-# Update Time: 02/25/2026 06:35:14
+# Update Time: 02/25/2026 18:55:49
 # Ruleset Name: International
-# Total: 7282
+# Total: 7283
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -2143,6 +2143,7 @@ DOMAIN-SUFFIX,freechinaweibo.com
 DOMAIN-SUFFIX,freeddns.com
 DOMAIN-SUFFIX,freeddns.org
 DOMAIN-SUFFIX,freedl.org
+DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedomchina.info
 DOMAIN-SUFFIX,freedomcollection.org
 DOMAIN-SUFFIX,freedomhongkong.org
