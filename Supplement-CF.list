@@ -2,7 +2,7 @@
 # OpenAI
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.com,extended-matching
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,featuregates.org
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai.com,extended-matching
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
