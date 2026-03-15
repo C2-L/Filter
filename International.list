@@ -1,6 +1,6 @@
-# Update Time: 03/15/2026 06:27:31
+# Update Time: 03/15/2026 18:37:39
 # Ruleset Name: International
-# Total: 7291
+# Total: 7292
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -6888,6 +6888,7 @@ DOMAIN-SUFFIX,xcafe.in
 DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xcity.jp
 DOMAIN-SUFFIX,xcritic.com
+DOMAIN-SUFFIX,xdaforums.com
 DOMAIN-SUFFIX,xerotica.com
 DOMAIN-SUFFIX,xfiles.to
 DOMAIN-SUFFIX,xfinity.com
