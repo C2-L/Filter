@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,shoutava.top
 DOMAIN-SUFFIX,jap.furnituremuse.com
 # Privacy and Malicious Pages
-DOMAIN,iptv.huuc.edu.cn
 DOMAIN,libra-sg.tiktokv.com
 DOMAIN,app-measurement.com
 DOMAIN,app-analytics-services.com
@@ -52,9 +51,4 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,sentry.io,extended-matching
 DOMAIN-SUFFIX,track.customer.io
 DOMAIN-SUFFIX,sprig.com
-DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-DOMAIN-SUFFIX,firebaselogging.googleapis.com
-# Others
-DOMAIN,hk.yahoo.com
-DOMAIN,www.yahoo.com
-DOMAIN,yahoo.com
+DOMAIN-SUFFIX,googleapis.com
