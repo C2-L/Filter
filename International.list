@@ -1,6 +1,6 @@
-# Update Time: 03/21/2026 06:29:50
+# Update Time: 03/21/2026 18:34:36
 # Ruleset Name: International
-# Total: 7295
+# Total: 7296
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -1209,6 +1209,7 @@ DOMAIN-SUFFIX,chuizi.net
 DOMAIN-SUFFIX,churchinhongkong.org
 DOMAIN-SUFFIX,chushigangdrug.ch
 DOMAIN-SUFFIX,ci-en.jp
+DOMAIN-SUFFIX,cia.gov
 DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,cienen.com
