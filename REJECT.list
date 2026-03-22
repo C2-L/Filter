@@ -51,4 +51,5 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,sentry.io,extended-matching
 DOMAIN-SUFFIX,track.customer.io
 DOMAIN-SUFFIX,sprig.com
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,firebaselogging.googleapis.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
