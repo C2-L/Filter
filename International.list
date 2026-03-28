@@ -1,6 +1,6 @@
-# Update Time: 03/28/2026 06:33:26
+# Update Time: 03/28/2026 18:38:26
 # Ruleset Name: International
-# Total: 7299
+# Total: 7298
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -5151,7 +5151,6 @@ DOMAIN-SUFFIX,rxhj.net
 DOMAIN-SUFFIX,s-cute.com
 DOMAIN-SUFFIX,s-dragon.org
 DOMAIN-SUFFIX,s-nbcnews.com
-DOMAIN-SUFFIX,s.rmimg.com
 DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,s1heng.com
 DOMAIN-SUFFIX,s1s1s1.com
