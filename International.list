@@ -1,6 +1,6 @@
-# Update Time: 04/04/2026 06:34:40
+# Update Time: 04/04/2026 18:40:51
 # Ruleset Name: International
-# Total: 7298
+# Total: 7299
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -4554,6 +4554,7 @@ DOMAIN-SUFFIX,orientaldaily.com.my
 DOMAIN-SUFFIX,orn.jp
 DOMAIN-SUFFIX,orzistic.org
 DOMAIN-SUFFIX,osfoora.com
+DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,otcbtc.com
 DOMAIN-SUFFIX,otnd.org
 DOMAIN-SUFFIX,otto.de
