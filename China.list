@@ -1,6 +1,6 @@
-# Update Time: 04/09/2026 13:50:32
+# Update Time: 04/10/2026 14:00:20
 # Ruleset Name: China
-# Total: 3759
+# Total: 3758
 
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
@@ -1030,7 +1030,6 @@ DOMAIN-SUFFIX,cpppf.org
 DOMAIN-SUFFIX,cqccn.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,cr173.com
-DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crggcn.com
 DOMAIN-SUFFIX,crsky.com
 DOMAIN-SUFFIX,cryuantafund.com
