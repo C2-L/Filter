@@ -7,6 +7,10 @@ DOMAIN,emby.nebula-media.org,extended-matching
 DOMAIN,film.hovervan.org
 DOMAIN,bps8m.onyra.cc
 DOMAIN,789.123456.al
+# MSC (not supported)
+DOMAIN,media.nijigem.by
+DOMAIN,cm.cdn.bgp.yt
+DOMAIN,default.cdn.bgp.yt
 # Large File Download
 DOMAIN,cdn-lfs-us-1.hf.co
 DOMAIN,dl.nssurge.com
