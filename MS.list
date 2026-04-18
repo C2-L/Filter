@@ -12,11 +12,9 @@ DOMAIN,media.nijigem.by
 DOMAIN,cm.cdn.bgp.yt
 DOMAIN,default.cdn.bgp.yt
 # Large File Download
-DOMAIN,cdn-lfs-us-1.hf.co
 DOMAIN,dl.nssurge.com
 DOMAIN,desktop-release.notion-static.com
-DOMAIN,releases.arc.net
-DOMAIN,releases.diabrowser.com
+DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,ncdn.ec
 DOMAIN-SUFFIX,charliemonroe.net
 # TMDB
