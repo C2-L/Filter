@@ -13,6 +13,7 @@ DOMAIN,cm.cdn.bgp.yt
 DOMAIN,default.cdn.bgp.yt
 # Large File Download
 DOMAIN,dl.nssurge.com
+DOMAIN,search.lmstudio.ai
 DOMAIN,desktop-release.notion-static.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,ncdn.ec
