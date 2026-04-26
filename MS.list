@@ -11,13 +11,6 @@ DOMAIN,789.123456.al
 DOMAIN,media.nijigem.by
 DOMAIN,cm.cdn.bgp.yt
 DOMAIN,default.cdn.bgp.yt
-# Large File Download
-DOMAIN,dl.nssurge.com
-DOMAIN,search.lmstudio.ai
-DOMAIN,desktop-release.notion-static.com
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,ncdn.ec
-DOMAIN-SUFFIX,charliemonroe.net
 # TMDB
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
