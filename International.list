@@ -1,6 +1,6 @@
-# Update Time: 05/08/2026 07:00:54
+# Update Time: 05/08/2026 19:23:26
 # Ruleset Name: International
-# Total: 7331
+# Total: 7332
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -6359,6 +6359,7 @@ DOMAIN-SUFFIX,ultrasurf.us
 DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultravpn.fr
 DOMAIN-SUFFIX,ultraxs.com
+DOMAIN-SUFFIX,umap.openstreetmap.fr
 DOMAIN-SUFFIX,umich.edu
 DOMAIN-SUFFIX,unblock-us.com
 DOMAIN-SUFFIX,unblock.cn.com
