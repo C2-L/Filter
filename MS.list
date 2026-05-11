@@ -7,10 +7,6 @@ DOMAIN,emby.nebula-media.org,extended-matching
 DOMAIN,film.hovervan.org
 DOMAIN,bps8m.onyra.cc
 DOMAIN,789.123456.al
-# AB-01
-DOMAIN,media.nijigem.by
-DOMAIN,cm.cdn.bgp.yt
-DOMAIN,default.cdn.bgp.yt
 # TMDB
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
