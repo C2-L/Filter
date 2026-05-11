@@ -1,6 +1,6 @@
-# Update Time: 05/11/2026 06:49:54
+# Update Time: 05/11/2026 20:42:12
 # Ruleset Name: International
-# Total: 7332
+# Total: 7334
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -1489,6 +1489,7 @@ DOMAIN-SUFFIX,darrenliuwei.com
 DOMAIN-SUFFIX,dashlane.com
 DOMAIN-SUFFIX,dastrassi.org
 DOMAIN-SUFFIX,data-vocabulary.org
+DOMAIN-SUFFIX,data18.com
 DOMAIN-SUFFIX,datalabour.com
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,david-kilgour.com
@@ -1684,6 +1685,7 @@ DOMAIN-SUFFIX,dscn.info
 DOMAIN-SUFFIX,dsmtp.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,dstk.dk
+DOMAIN-SUFFIX,dt18.com
 DOMAIN-SUFFIX,dtdns.net
 DOMAIN-SUFFIX,dtiblog.com
 DOMAIN-SUFFIX,dtic.mil
