@@ -1,6 +1,6 @@
-# Update Time: 05/18/2026 06:54:15
+# Update Time: 05/18/2026 21:51:20
 # Ruleset Name: International
-# Total: 7335
+# Total: 7337
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -5376,6 +5376,7 @@ DOMAIN-SUFFIX,shwchurch3.com
 DOMAIN-SUFFIX,siddharthasintent.org
 DOMAIN-SUFFIX,sidelinesnews.com
 DOMAIN-SUFFIX,sidelinessportseatery.com
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,sierrafriendsoftibet.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,sijihuisuo.club
@@ -7168,6 +7169,7 @@ DOMAIN-SUFFIX,zh.wikiquote.org
 DOMAIN-SUFFIX,zhanbin.net
 DOMAIN-SUFFIX,zhangboli.net
 DOMAIN-SUFFIX,zhangtianliang.com
+DOMAIN-SUFFIX,zhangzhehan.net
 DOMAIN-SUFFIX,zhanlve.org
 DOMAIN-SUFFIX,zhao.1984.city
 DOMAIN-SUFFIX,zhenghui.org
