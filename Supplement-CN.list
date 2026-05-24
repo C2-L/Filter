@@ -106,10 +106,8 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
-# MS Supplement
-DOMAIN,media.nijigem.by
+# Player Services
 DOMAIN-SUFFIX,vvebo.vip
-DOMAIN-SUFFIX,cdn.bgp.yt
 # Trakt Service
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
