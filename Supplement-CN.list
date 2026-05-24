@@ -107,9 +107,9 @@ DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
 # MS Supplement
-DOMAIN,ct.cdn.bgp.yt
-DOMAIN,cu.cdn.bgp.yt
+DOMAIN,media.nijigem.by
 DOMAIN-SUFFIX,vvebo.vip
+DOMAIN-SUFFIX,cdn.bgp.yt
 # Trakt Service
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
@@ -149,7 +149,5 @@ IP-CIDR,74.48.192.96/32
 IP-CIDR,118.89.87.74/32
 IP-CIDR,101.35.240.114/32
 IP-CIDR,148.135.93.213/32
-# Large File Download
-DOMAIN-SUFFIX,r2.cloudflarestorage.com
 # Router Service
 DOMAIN-KEYWORD,linksys
