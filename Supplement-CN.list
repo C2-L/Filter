@@ -106,7 +106,8 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
-# Player Services
+# Media Services
+DOMAIN,us.aemby.de
 DOMAIN-SUFFIX,vvebo.vip
 # Trakt Service
 DOMAIN-SUFFIX,trakt.tv
