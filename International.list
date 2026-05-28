@@ -1,6 +1,6 @@
-# Update Time: 05/28/2026 07:17:25
+# Update Time: 05/28/2026 21:56:20
 # Ruleset Name: International
-# Total: 7347
+# Total: 7348
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -1665,6 +1665,7 @@ DOMAIN-SUFFIX,douhokanko.net
 DOMAIN-SUFFIX,doujincafe.com
 DOMAIN-SUFFIX,dowei.org
 DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,dpool.top
