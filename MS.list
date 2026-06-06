@@ -1,6 +1,7 @@
 # MS
 DOMAIN,embyplus.org
 DOMAIN,emby.embyplus.org
+DOMAIN,test.28.al,extended-matching
 DOMAIN,cf.xmsl.org,extended-matching
 DOMAIN,emby.nebula-media.org,extended-matching
 DOMAIN,film.hovervan.org
