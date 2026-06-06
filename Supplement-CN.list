@@ -107,10 +107,10 @@ DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
 # Media Services
-DOMAIN,test.28.al
-DOMAIN,us.aemby.de
-DOMAIN,stream.1huanlesap02.top
-DOMAIN-SUFFIX,vvebo.vip
+DOMAIN,test.28.al,extended-matching
+DOMAIN,us.aemby.de,extended-matching
+DOMAIN,stream.1huanlesap02.top,extended-matching
+DOMAIN-SUFFIX,vvebo.vip,extended-matching
 # Trakt Service
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
