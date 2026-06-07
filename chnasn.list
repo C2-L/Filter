@@ -1,4 +1,4 @@
-# Update Time: 06/07/2026 19:11:43
+# Update Time: 06/08/2026 05:59:38
 # Ruleset Name: ASN-CHN Information
 # Total: 5232
 
@@ -5050,7 +5050,7 @@ IP-ASN,142067 # APNIC ASN block
 IP-ASN,141445 # Phoenix Network
 IP-ASN,141429 # Agatha Network
 IP-ASN,141172 # Tianao Chen
-IP-ASN,140915 # Xiang Xuanchen
+IP-ASN,140915 # APNIC ASN block
 IP-ASN,140863 # CHINATELECOM Jiangxi province Fuzhou 5G network
 IP-ASN,140862 # CHINATELECOM Jiangxi province Jian 5G network
 IP-ASN,140861 # CHINATELECOM Jiangxi province Ganzhou 5G network
