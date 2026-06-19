@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,ncdn.ec
 DOMAIN-SUFFIX,charliemonroe.net
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
+# TMDB
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
 # MSC Supplement
 DOMAIN,media.nijigem.by
 DOMAIN-SUFFIX,cdn.bgp.yt
