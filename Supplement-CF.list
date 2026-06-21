@@ -59,6 +59,16 @@ DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 # Vercel Projects
 DOMAIN-SUFFIX,vercel.app
+# Adobe
+DOMAIN,assets.adobedtm.com
+DOMAIN,prod.adobeccstatic.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,adobeoobe.com
+DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,forter.com
+DOMAIN-KEYWORD,adobe
 # Steam
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcommunity-a.akamaihd.net
