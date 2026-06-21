@@ -39,10 +39,11 @@ DOMAIN,mixer.mobon.net
 DOMAIN,cookie.momento.dev
 DOMAIN,api.demandbase.com
 DOMAIN,astg.widerplanet.com
-DOMAIN,image2.pubmatic.com
 DOMAIN,cm-exchange.toast.com
 DOMAIN,pixel.rubiconproject.com
 DOMAIN,siteintercept.qualtrics.com
+DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,mobile-messenger.intercom.com
 DOMAIN-SUFFIX,branch.io
