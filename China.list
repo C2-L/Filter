@@ -1,6 +1,6 @@
-# Update Time: 06/21/2026 16:36:20
+# Update Time: 06/22/2026 17:49:52
 # Ruleset Name: China
-# Total: 3754
+# Total: 3752
 
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
@@ -1371,8 +1371,6 @@ DOMAIN-SUFFIX,funcdn.com
 DOMAIN-SUFFIX,funnycore.com
 DOMAIN-SUFFIX,funshion.com
 DOMAIN-SUFFIX,funshion.net
-DOMAIN-SUFFIX,futu5.com
-DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,fuwai.com
 DOMAIN-SUFFIX,fuwj.com
 DOMAIN-SUFFIX,fxxz.com
