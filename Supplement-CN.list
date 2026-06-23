@@ -106,10 +106,9 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
-# Media Services
+# MSC
 DOMAIN,us.aemby.de,extended-matching
 DOMAIN,stream.1huanlesap02.top,extended-matching
-DOMAIN-SUFFIX,vvebo.vip
 # Trakt Service
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
@@ -117,6 +116,10 @@ DOMAIN-SUFFIX,releasenotes.io
 # TMDB
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
+# Other MDB Services
+DOMAIN-SUFFIX,vvebo.vip
+DOMAIN-SUFFIX,theintrodb.org
+DOMAIN-SUFFIX,publicmetadb.com
 # IPTV
 DOMAIN,0472.org
 DOMAIN,drive.mxmy.net
