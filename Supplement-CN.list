@@ -114,6 +114,9 @@ DOMAIN-SUFFIX,vvebo.vip
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,releasenotes.io
+# TMDB
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
 # IPTV
 DOMAIN,0472.org
 DOMAIN,drive.mxmy.net
