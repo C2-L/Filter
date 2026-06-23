@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
 # Other MDB Services
 DOMAIN-SUFFIX,vvebo.vip
+DOMAIN-SUFFIX,introdb.app
 DOMAIN-SUFFIX,theintrodb.org
 DOMAIN-SUFFIX,publicmetadb.com
 # IPTV
