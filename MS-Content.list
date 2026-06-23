@@ -1,4 +1,5 @@
 # MSC
+DOMAIN,media.nijigem.by
 DOMAIN,emby.bangumi.ca
 DOMAIN,gd.9521732.xyz
 DOMAIN,emby2.029902.xyz
@@ -23,6 +24,7 @@ DOMAIN,emby.ichinosekotomi.com
 DOMAIN,emos.lol
 DOMAIN,cct.rjmao.com
 DOMAIN,freestream.startspoint.com
+DOMAIN-SUFFIX,cdn.bgp.yt
 IP-CIDR,152.70.233.134/32
 IP-CIDR,209.141.61.153/32
 # STRM
