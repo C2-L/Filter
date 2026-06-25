@@ -1,6 +1,6 @@
-# Update Time: 06/25/2026 07:03:45
+# Update Time: 06/25/2026 20:26:27
 # Ruleset Name: International
-# Total: 7445
+# Total: 7446
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -2397,6 +2397,7 @@ DOMAIN-SUFFIX,geocities.jp
 DOMAIN-SUFFIX,geph.io
 DOMAIN-SUFFIX,gerefoundation.org
 DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
 DOMAIN-SUFFIX,get.page
