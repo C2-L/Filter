@@ -1,6 +1,6 @@
-# Update Time: 06/26/2026 07:18:33
+# Update Time: 06/26/2026 20:16:37
 # Ruleset Name: International
-# Total: 7446
+# Total: 7447
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -1393,6 +1393,7 @@ DOMAIN-SUFFIX,crazyshit.com
 DOMAIN-SUFFIX,crbug.com
 DOMAIN-SUFFIX,crchina.org
 DOMAIN-SUFFIX,crd-net.org
+DOMAIN-SUFFIX,creader.com
 DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,creadersnet.com
 DOMAIN-SUFFIX,creativelab5.com
