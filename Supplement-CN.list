@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
+DOMAIN-SUFFIX,adaptytech.com
 # Trakt Service
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
@@ -114,6 +115,7 @@ DOMAIN-SUFFIX,releasenotes.io
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
 # Other MDB Services
+DOMAIN,ee.iva-api.com
 DOMAIN-SUFFIX,vvebo.vip
 DOMAIN-SUFFIX,introdb.app
 DOMAIN-SUFFIX,theintrodb.org
