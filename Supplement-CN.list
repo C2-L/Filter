@@ -106,9 +106,6 @@ DOMAIN-SUFFIX,yzzyimages.com
 DOMAIN-SUFFIX,imgikzy.com
 DOMAIN-SUFFIX,high22-playback.com
 DOMAIN-SUFFIX,us.kg
-# MSC
-DOMAIN,us.aemby.de,extended-matching
-DOMAIN,stream.1huanlesap02.top,extended-matching
 # Trakt Service
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,discourse-cdn.com
