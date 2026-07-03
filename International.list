@@ -1,6 +1,6 @@
-# Update Time: 07/03/2026 07:07:54
+# Update Time: 07/03/2026 20:11:54
 # Ruleset Name: International
-# Total: 7463
+# Total: 7464
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -6814,6 +6814,7 @@ DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,webrush.net
 DOMAIN-SUFFIX,webs-tv.net
 DOMAIN-SUFFIX,websdr.org
+DOMAIN-SUFFIX,webshare.io
 DOMAIN-SUFFIX,website.new
 DOMAIN-SUFFIX,websitepulse.com
 DOMAIN-SUFFIX,websnapr.com
