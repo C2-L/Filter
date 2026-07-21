@@ -1,6 +1,6 @@
-# Update Time: 07/21/2026 07:00:26
+# Update Time: 07/21/2026 19:50:38
 # Ruleset Name: International
-# Total: 7465
+# Total: 7467
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -1264,6 +1264,7 @@ DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,cixiaoya.club
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,clarionproject.org
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
@@ -5826,6 +5827,7 @@ DOMAIN-SUFFIX,syncback.com
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,syosetu.com
 DOMAIN-SUFFIX,sysresccd.org
+DOMAIN-SUFFIX,sysub.com
 DOMAIN-SUFFIX,sytes.net
 DOMAIN-SUFFIX,syx86.com
 DOMAIN-SUFFIX,szbbs.net
