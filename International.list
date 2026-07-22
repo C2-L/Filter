@@ -1,6 +1,6 @@
-# Update Time: 07/22/2026 06:56:55
+# Update Time: 07/22/2026 19:51:58
 # Ruleset Name: International
-# Total: 7467
+# Total: 7468
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -7284,6 +7284,7 @@ DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zengjinyan.org
 DOMAIN-SUFFIX,zenmate.com
 DOMAIN-SUFFIX,zenmate.com.ru
+DOMAIN-SUFFIX,zenmux.ai
 DOMAIN-SUFFIX,zerohedge.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zeutch.com
