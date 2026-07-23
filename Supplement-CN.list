@@ -114,8 +114,9 @@ DOMAIN-SUFFIX,releasenotes.io
 # TMDB
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
-# Other MDB Services
+# Other Media Services
 DOMAIN,ee.iva-api.com
+DOMAIN,infuse-sync.s3-accelerate.amazonaws.com
 DOMAIN-SUFFIX,vvebo.vip
 DOMAIN-SUFFIX,introdb.app
 DOMAIN-SUFFIX,theintrodb.org
