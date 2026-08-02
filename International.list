@@ -1,6 +1,6 @@
-# Update Time: 08/02/2026 06:57:29
+# Update Time: 08/02/2026 19:19:51
 # Ruleset Name: International
-# Total: 7474
+# Total: 7475
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -4512,6 +4512,7 @@ DOMAIN-SUFFIX,ntdtv.jp
 DOMAIN-SUFFIX,ntdtv.org
 DOMAIN-SUFFIX,ntdtv.ru
 DOMAIN-SUFFIX,ntdtvla.com
+DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,ntrfun.com
 DOMAIN-SUFFIX,ntu.edu.tw
 DOMAIN-SUFFIX,nu.nl
