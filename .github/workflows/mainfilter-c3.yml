@@ -20,7 +20,7 @@ jobs:
           update_time=$(TZ='Asia/Shanghai' date '+%m/%d/%Y %H:%M:%S')
           for file in "${files[@]}"; do
             echo "正在处理 ${file}..."
-            url="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Ruleset/${file}"
+            url="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Ruleset/Surge/${file}"
             {
               echo "# Update Time: $update_time"
               curl -sSL "$url" | sed -e 's/,no-resolve//g' -e 's/规则名称/Ruleset Name/g' -e 's/规则统计/Total/g' -e 's/GlobalMedia/Streaming/g' -e 's/Global/International/g'
