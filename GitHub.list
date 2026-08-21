@@ -1,2 +1,10 @@
-# Update Time: 08/21/2026 06:27:08
-404: Not Found
+# Update Time: 08/21/2026 11:06:48
+# Ruleset Name: GitHub
+# Total: 6
+
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,github
