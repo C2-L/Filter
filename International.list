@@ -1,6 +1,6 @@
-# Update Time: 08/31/2026 08:13:48
+# Update Time: 09/01/2026 01:29:29
 # Ruleset Name: International
-# Total: 7490
+# Total: 7492
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -2429,6 +2429,7 @@ DOMAIN-SUFFIX,getjetso.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getmalus.com
 DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,getmonero.org
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getsession.org
 DOMAIN-SUFFIX,getsocialscope.com
@@ -4443,6 +4444,7 @@ DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nic.cz.cc
 DOMAIN-SUFFIX,nic.google
 DOMAIN-SUFFIX,nic.gov
+DOMAIN-SUFFIX,nicoseiga.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nighost.org
 DOMAIN-SUFFIX,nightlife141.com
