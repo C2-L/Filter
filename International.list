@@ -1,6 +1,6 @@
-# Update Time: 10/01/2026 09:05:58
+# Update Time: 10/02/2026 00:57:20
 # Ruleset Name: International
-# Total: 7492
+# Total: 7494
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -2329,6 +2329,7 @@ DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,fux.com
 DOMAIN-SUFFIX,fuyin.net
+DOMAIN-SUFFIX,fuyin116.com
 DOMAIN-SUFFIX,fuyindiantai.org
 DOMAIN-SUFFIX,fuyu.org.tw
 DOMAIN-SUFFIX,fw.cm
@@ -4228,6 +4229,7 @@ DOMAIN-SUFFIX,multiupload.com
 DOMAIN-SUFFIX,mummysgold.com
 DOMAIN-SUFFIX,murmur.tw
 DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,music.amazon.com
 DOMAIN-SUFFIX,musicade.net
 DOMAIN-SUFFIX,musical.ly
