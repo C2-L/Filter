@@ -1,6 +1,6 @@
-# Update Time: 10/02/2026 09:19:30
+# Update Time: 10/03/2026 00:10:21
 # Ruleset Name: International
-# Total: 7494
+# Total: 7495
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -6783,6 +6783,7 @@ DOMAIN-SUFFIX,wainao.me
 DOMAIN-SUFFIX,waiwaier.com
 DOMAIN-SUFFIX,walletconnect.com
 DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,wallmama.com
 DOMAIN-SUFFIX,wallornot.org
 DOMAIN-SUFFIX,wallpapercasa.com
