@@ -1,6 +1,6 @@
-# Update Time: 10/02/2026 00:13:35
+# Update Time: 10/02/2026 08:25:43
 # Ruleset Name: ASN-CHN Information
-# Total: 5231
+# Total: 5230
 
 IP-ASN,24429 # Zhejiang Taobao Network Co.,Ltd
 IP-ASN,132203 # Tencent Building, Kejizhongyi Avenue
@@ -574,7 +574,6 @@ IP-ASN,203309 # Liangyi Ma
 IP-ASN,203236 # Mingyang Shen
 IP-ASN,199310 # XIN BING XIAN
 IP-ASN,198588 # Hangzhou Tungsten Cloud Technology Co., Ltd.
-IP-ASN,197817 # Yunxiao Bai
 IP-ASN,18257 # ChangZhou Bitcomm Software Technology Co., Limited
 IP-ASN,18244 # Stateline Internet Data Center Co., Ltd. Shanghai
 IP-ASN,18242 # Chengdu Information Harbor Co., Ltd
