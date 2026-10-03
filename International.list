@@ -1,6 +1,6 @@
-# Update Time: 10/03/2026 08:57:44
+# Update Time: 10/03/2026 22:37:01
 # Ruleset Name: International
-# Total: 7495
+# Total: 7496
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -5512,6 +5512,7 @@ DOMAIN-SUFFIX,simpleswap.io
 DOMAIN-SUFFIX,simplex.chat
 DOMAIN-SUFFIX,sina.com.hk
 DOMAIN-SUFFIX,sinchew.com.my
+DOMAIN-SUFFIX,sing-box.sagernet.org
 DOMAIN-SUFFIX,singaporepools.com.sg
 DOMAIN-SUFFIX,singfortibet.com
 DOMAIN-SUFFIX,singlelogin.se
