@@ -1,11 +1,8 @@
 # MS
-DOMAIN,embyplus.org
-DOMAIN,emby.embyplus.org
+DOMAIN,v2.embyplus.org
 DOMAIN,test.28.al,extended-matching
 DOMAIN,cf.xmsl.org,extended-matching
 DOMAIN,emby.nebula-media.org,extended-matching
 DOMAIN,film.hovervan.org
 DOMAIN,bps8m.onyra.cc
 DOMAIN,789.123456.al
-# MSC
-DOMAIN,stream.embyplus.org
