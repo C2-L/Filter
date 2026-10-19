@@ -121,6 +121,11 @@ DOMAIN-SUFFIX,vvebo.vip
 DOMAIN-SUFFIX,introdb.app
 DOMAIN-SUFFIX,theintrodb.org
 DOMAIN-SUFFIX,publicmetadb.com
+# MSC Direct
+DOMAIN,us.aemby.de
+DOMAIN,stream.1huanlesap02.top
+DOMAIN,media.nijigem.by
+DOMAIN-SUFFIX,cdn.bgp.yt
 # IPTV
 DOMAIN,0472.org
 DOMAIN,drive.mxmy.net
