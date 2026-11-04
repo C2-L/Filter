@@ -1,6 +1,6 @@
-# Update Time: 11/04/2026 09:56:05
+# Update Time: 11/05/2026 01:53:01
 # Ruleset Name: International
-# Total: 7550
+# Total: 7551
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -689,6 +689,7 @@ DOMAIN-SUFFIX,bignews.org
 DOMAIN-SUFFIX,bigone.com
 DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,bild.de
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,billypan.com
