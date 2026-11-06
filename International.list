@@ -1,6 +1,6 @@
-# Update Time: 11/06/2026 09:59:54
+# Update Time: 11/07/2026 01:17:15
 # Ruleset Name: International
-# Total: 7551
+# Total: 7550
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -4013,7 +4013,6 @@ DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,maturejp.com
-DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,maxing.jp
 DOMAIN-SUFFIX,mayimayi.com
