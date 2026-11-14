@@ -1,6 +1,6 @@
-# Update Time: 11/14/2026 09:58:48
+# Update Time: 11/15/2026 00:28:06
 # Ruleset Name: International
-# Total: 7550
+# Total: 7551
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,50webs.com
 DOMAIN-SUFFIX,51.ca
 DOMAIN-SUFFIX,51jav.org
 DOMAIN-SUFFIX,51luoben.com
+DOMAIN-SUFFIX,51papaya.com
 DOMAIN-SUFFIX,5278.cc
 DOMAIN-SUFFIX,5299.tv
 DOMAIN-SUFFIX,5aimiku.com
