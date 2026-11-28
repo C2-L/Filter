@@ -1,6 +1,6 @@
-# Update Time: 11/28/2026 11:44:11
+# Update Time: 11/29/2026 02:02:25
 # Ruleset Name: International
-# Total: 7598
+# Total: 7601
 
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
@@ -259,6 +259,7 @@ DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aicu.cc
 DOMAIN-SUFFIX,aidc.com.tw
 DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aiosearch.com
@@ -1552,6 +1553,7 @@ DOMAIN-SUFFIX,dalianmeng.org
 DOMAIN-SUFFIX,daliulian.org
 DOMAIN-SUFFIX,danbooru.donmai.us
 DOMAIN-SUFFIX,danke4china.net
+DOMAIN-SUFFIX,danmakus.com
 DOMAIN-SUFFIX,danwei.org
 DOMAIN-SUFFIX,daolan.net
 DOMAIN-SUFFIX,daozhongxing.org
@@ -5747,6 +5749,7 @@ DOMAIN-SUFFIX,southnews.com.tw
 DOMAIN-SUFFIX,southpark.cc.com
 DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,soylent.com
+DOMAIN-SUFFIX,spacedesk.net
 DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spaces.hightail.com
 DOMAIN-SUFFIX,spacex.com
